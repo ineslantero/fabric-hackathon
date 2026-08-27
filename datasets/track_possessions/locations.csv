@@ -1,0 +1,13 @@
+LocationID,LocationName,RegionID
+PL00001,London – Brighton Corridor,RG00004
+PL00002,Manchester – Liverpool Corridor,RG00005
+PL00003,Leeds – York Corridor,RG00003
+PL00004,Bristol – Cardiff Corridor,RG00005
+PL00005,Norwich – Ipswich Corridor,RG00005
+PL00006,Glasgow – Edinburgh Corridor,RG00002
+PL00007,Birmingham – Leicester Corridor,RG00003
+PL00008,Reading – Oxford Corridor,RG00003
+PL00009,Exeter – Plymouth Corridor,RG00003
+PL00010,Carlisle – Preston Corridor,RG00005
+PL00011,Inverness – Aberdeen Corridor,RG00004
+PL00012,Southampton – Portsmouth Corridor,RG00003

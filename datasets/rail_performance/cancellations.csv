@@ -1,0 +1,105 @@
+ServiceID,CancelType,CancelReason
+SV00006,Partial,Track obstruction
+SV00042,Full,Track obstruction
+SV00051,Full,Signalling issue
+SV00059,Partial,Crew unavailable
+SV00075,Full,Crew unavailable
+SV00087,Partial,Rolling stock failure
+SV00088,Partial,Track obstruction
+SV00094,Full,Signalling issue
+SV00098,Partial,Track obstruction
+SV00103,Partial,Rolling stock failure
+SV00112,Partial,Track obstruction
+SV00129,Full,Crew unavailable
+SV00134,Partial,Signalling issue
+SV00139,Partial,Track obstruction
+SV00143,Full,Rolling stock failure
+SV00174,Full,Rolling stock failure
+SV00183,Partial,Rolling stock failure
+SV00196,Full,Track obstruction
+SV00202,Full,Crew unavailable
+SV00210,Full,Signalling issue
+SV00269,Partial,Crew unavailable
+SV00291,Full,Signalling issue
+SV00299,Full,Track obstruction
+SV00303,Partial,Signalling issue
+SV00309,Partial,Crew unavailable
+SV00323,Full,Track obstruction
+SV00325,Partial,Signalling issue
+SV00331,Full,Signalling issue
+SV00360,Partial,Signalling issue
+SV00392,Full,Rolling stock failure
+SV00419,Full,Signalling issue
+SV00428,Full,Signalling issue
+SV00430,Full,Track obstruction
+SV00445,Full,Track obstruction
+SV00454,Full,Track obstruction
+SV00487,Partial,Rolling stock failure
+SV00490,Full,Track obstruction
+SV00491,Partial,Signalling issue
+SV00495,Full,Crew unavailable
+SV00504,Partial,Track obstruction
+SV00522,Partial,Signalling issue
+SV00532,Partial,Rolling stock failure
+SV00534,Partial,Signalling issue
+SV00542,Full,Rolling stock failure
+SV00550,Full,Track obstruction
+SV00553,Partial,Crew unavailable
+SV00562,Full,Track obstruction
+SV00563,Partial,Signalling issue
+SV00568,Full,Track obstruction
+SV00576,Partial,Track obstruction
+SV00583,Partial,Crew unavailable
+SV00592,Full,Track obstruction
+SV00604,Partial,Track obstruction
+SV00610,Full,Signalling issue
+SV00617,Partial,Crew unavailable
+SV00620,Partial,Crew unavailable
+SV00635,Partial,Crew unavailable
+SV00642,Partial,Signalling issue
+SV00647,Full,Signalling issue
+SV00661,Full,Crew unavailable
+SV00662,Partial,Track obstruction
+SV00681,Full,Signalling issue
+SV00691,Full,Track obstruction
+SV00702,Partial,Track obstruction
+SV00718,Partial,Rolling stock failure
+SV00737,Full,Rolling stock failure
+SV00740,Full,Crew unavailable
+SV00742,Full,Crew unavailable
+SV00747,Full,Rolling stock failure
+SV00748,Partial,Track obstruction
+SV00752,Full,Rolling stock failure
+SV00774,Full,Track obstruction
+SV00788,Partial,Crew unavailable
+SV00800,Partial,Crew unavailable
+SV00801,Full,Track obstruction
+SV00817,Full,Crew unavailable
+SV00852,Partial,Crew unavailable
+SV00857,Full,Rolling stock failure
+SV00861,Full,Track obstruction
+SV00883,Partial,Signalling issue
+SV00885,Full,Signalling issue
+SV00886,Partial,Rolling stock failure
+SV00892,Full,Track obstruction
+SV00895,Partial,Track obstruction
+SV00921,Partial,Track obstruction
+SV00931,Partial,Track obstruction
+SV00937,Full,Rolling stock failure
+SV00947,Partial,Crew unavailable
+SV00949,Partial,Rolling stock failure
+SV00950,Full,Crew unavailable
+SV00956,Full,Track obstruction
+SV00962,Partial,Rolling stock failure
+SV00971,Partial,Crew unavailable
+SV01018,Full,Signalling issue
+SV01027,Full,Crew unavailable
+SV01045,Full,Signalling issue
+SV01046,Full,Crew unavailable
+SV01085,Partial,Signalling issue
+SV01106,Partial,Track obstruction
+SV01112,Full,Track obstruction
+SV01113,Full,Track obstruction
+SV01120,Full,Track obstruction
+SV01156,Full,Signalling issue
+SV01174,Partial,Crew unavailable

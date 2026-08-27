@@ -1,0 +1,1573 @@
+EventID,ServiceID,Reason,ReasonGroup,DelayMinutes
+DE000001,SV00001,Points failure,Infrastructure,35
+DE000002,SV00002,Congestion,Network,13
+DE000003,SV00003,Weather,External,12
+DE000004,SV00003,Passenger incident,External,9
+DE000005,SV00004,Rolling stock,Fleet,10
+DE000006,SV00005,Points failure,Infrastructure,3
+DE000007,SV00005,Congestion,Network,14
+DE000008,SV00007,Points failure,Infrastructure,35
+DE000009,SV00008,Passenger incident,External,34
+DE000010,SV00010,Passenger incident,External,27
+DE000011,SV00011,Track fault,Infrastructure,12
+DE000012,SV00013,Points failure,Infrastructure,9
+DE000013,SV00013,Passenger incident,External,10
+DE000014,SV00014,Passenger incident,External,2
+DE000015,SV00014,Points failure,Infrastructure,1
+DE000016,SV00015,Rolling stock,Fleet,21
+DE000017,SV00016,Passenger incident,External,52
+DE000018,SV00017,Rolling stock,Fleet,12
+DE000019,SV00017,Congestion,Network,1
+DE000020,SV00019,Passenger incident,External,32
+DE000021,SV00020,Signal failure,Infrastructure,6
+DE000022,SV00020,Rolling stock,Fleet,1
+DE000023,SV00022,Congestion,Network,20
+DE000024,SV00022,Points failure,Infrastructure,2
+DE000025,SV00023,Congestion,Network,14
+DE000026,SV00024,Staffing,Operations,3
+DE000027,SV00024,Rolling stock,Fleet,38
+DE000028,SV00025,Track fault,Infrastructure,63
+DE000029,SV00027,Track fault,Infrastructure,10
+DE000030,SV00027,Staffing,Operations,20
+DE000031,SV00028,Signal failure,Infrastructure,13
+DE000032,SV00028,Rolling stock,Fleet,1
+DE000033,SV00029,Points failure,Infrastructure,41
+DE000034,SV00030,Staffing,Operations,3
+DE000035,SV00031,Weather,External,12
+DE000036,SV00031,Passenger incident,External,37
+DE000037,SV00032,Congestion,Network,56
+DE000038,SV00033,Congestion,Network,1
+DE000039,SV00033,Points failure,Infrastructure,5
+DE000040,SV00034,Staffing,Operations,19
+DE000041,SV00034,Passenger incident,External,10
+DE000042,SV00035,Points failure,Infrastructure,31
+DE000043,SV00035,Rolling stock,Fleet,16
+DE000044,SV00036,Passenger incident,External,5
+DE000045,SV00037,Passenger incident,External,5
+DE000046,SV00037,Track fault,Infrastructure,18
+DE000047,SV00038,Points failure,Infrastructure,3
+DE000048,SV00039,Weather,External,26
+DE000049,SV00039,Track fault,Infrastructure,11
+DE000050,SV00040,Passenger incident,External,13
+DE000051,SV00041,Congestion,Network,3
+DE000052,SV00041,Signal failure,Infrastructure,7
+DE000053,SV00043,Congestion,Network,21
+DE000054,SV00043,Congestion,Network,5
+DE000055,SV00044,Signal failure,Infrastructure,6
+DE000056,SV00045,Passenger incident,External,11
+DE000057,SV00046,Congestion,Network,24
+DE000058,SV00047,Signal failure,Infrastructure,23
+DE000059,SV00048,Weather,External,4
+DE000060,SV00048,Passenger incident,External,11
+DE000061,SV00049,Track fault,Infrastructure,44
+DE000062,SV00050,Signal failure,Infrastructure,16
+DE000063,SV00050,Signal failure,Infrastructure,12
+DE000064,SV00052,Points failure,Infrastructure,12
+DE000065,SV00052,Points failure,Infrastructure,28
+DE000066,SV00053,Track fault,Infrastructure,47
+DE000067,SV00054,Staffing,Operations,6
+DE000068,SV00054,Congestion,Network,38
+DE000069,SV00055,Rolling stock,Fleet,51
+DE000070,SV00056,Rolling stock,Fleet,6
+DE000071,SV00056,Staffing,Operations,11
+DE000072,SV00058,Rolling stock,Fleet,25
+DE000073,SV00060,Points failure,Infrastructure,11
+DE000074,SV00060,Rolling stock,Fleet,5
+DE000075,SV00062,Track fault,Infrastructure,12
+DE000076,SV00063,Signal failure,Infrastructure,18
+DE000077,SV00064,Staffing,Operations,25
+DE000078,SV00065,Congestion,Network,21
+DE000079,SV00065,Rolling stock,Fleet,30
+DE000080,SV00066,Track fault,Infrastructure,17
+DE000081,SV00066,Points failure,Infrastructure,43
+DE000082,SV00067,Signal failure,Infrastructure,28
+DE000083,SV00068,Weather,External,51
+DE000084,SV00069,Passenger incident,External,28
+DE000085,SV00071,Congestion,Network,9
+DE000086,SV00071,Signal failure,Infrastructure,14
+DE000087,SV00072,Passenger incident,External,14
+DE000088,SV00072,Congestion,Network,4
+DE000089,SV00073,Signal failure,Infrastructure,53
+DE000090,SV00073,Weather,External,13
+DE000091,SV00074,Staffing,Operations,13
+DE000092,SV00076,Weather,External,12
+DE000093,SV00077,Staffing,Operations,36
+DE000094,SV00078,Passenger incident,External,6
+DE000095,SV00078,Weather,External,29
+DE000096,SV00079,Track fault,Infrastructure,14
+DE000097,SV00080,Weather,External,16
+DE000098,SV00081,Passenger incident,External,1
+DE000099,SV00081,Signal failure,Infrastructure,6
+DE000100,SV00082,Staffing,Operations,6
+DE000101,SV00082,Signal failure,Infrastructure,15
+DE000102,SV00083,Passenger incident,External,12
+DE000103,SV00084,Staffing,Operations,44
+DE000104,SV00084,Points failure,Infrastructure,7
+DE000105,SV00085,Weather,External,17
+DE000106,SV00085,Staffing,Operations,2
+DE000107,SV00086,Rolling stock,Fleet,51
+DE000108,SV00089,Staffing,Operations,19
+DE000109,SV00090,Points failure,Infrastructure,35
+DE000110,SV00091,Rolling stock,Fleet,5
+DE000111,SV00093,Points failure,Infrastructure,7
+DE000112,SV00093,Track fault,Infrastructure,14
+DE000113,SV00095,Staffing,Operations,23
+DE000114,SV00095,Passenger incident,External,1
+DE000115,SV00096,Weather,External,42
+DE000116,SV00096,Track fault,Infrastructure,26
+DE000117,SV00097,Passenger incident,External,47
+DE000118,SV00099,Signal failure,Infrastructure,3
+DE000119,SV00099,Signal failure,Infrastructure,6
+DE000120,SV00101,Signal failure,Infrastructure,1
+DE000121,SV00101,Rolling stock,Fleet,9
+DE000122,SV00102,Passenger incident,External,26
+DE000123,SV00102,Congestion,Network,9
+DE000124,SV00104,Signal failure,Infrastructure,20
+DE000125,SV00105,Congestion,Network,6
+DE000126,SV00105,Points failure,Infrastructure,6
+DE000127,SV00106,Points failure,Infrastructure,2
+DE000128,SV00106,Signal failure,Infrastructure,4
+DE000129,SV00107,Passenger incident,External,22
+DE000130,SV00108,Weather,External,8
+DE000131,SV00108,Signal failure,Infrastructure,5
+DE000132,SV00109,Signal failure,Infrastructure,23
+DE000133,SV00110,Track fault,Infrastructure,7
+DE000134,SV00110,Congestion,Network,18
+DE000135,SV00111,Weather,External,8
+DE000136,SV00111,Passenger incident,External,21
+DE000137,SV00113,Signal failure,Infrastructure,18
+DE000138,SV00113,Passenger incident,External,19
+DE000139,SV00115,Signal failure,Infrastructure,58
+DE000140,SV00116,Points failure,Infrastructure,25
+DE000141,SV00117,Staffing,Operations,15
+DE000142,SV00118,Rolling stock,Fleet,13
+DE000143,SV00118,Rolling stock,Fleet,22
+DE000144,SV00120,Rolling stock,Fleet,15
+DE000145,SV00121,Rolling stock,Fleet,30
+DE000146,SV00122,Weather,External,17
+DE000147,SV00122,Staffing,Operations,2
+DE000148,SV00124,Signal failure,Infrastructure,15
+DE000149,SV00125,Passenger incident,External,1
+DE000150,SV00125,Points failure,Infrastructure,5
+DE000151,SV00126,Track fault,Infrastructure,5
+DE000152,SV00127,Points failure,Infrastructure,5
+DE000153,SV00127,Congestion,Network,6
+DE000154,SV00128,Passenger incident,External,6
+DE000155,SV00128,Signal failure,Infrastructure,5
+DE000156,SV00130,Signal failure,Infrastructure,11
+DE000157,SV00131,Points failure,Infrastructure,9
+DE000158,SV00131,Passenger incident,External,5
+DE000159,SV00132,Signal failure,Infrastructure,13
+DE000160,SV00132,Weather,External,5
+DE000161,SV00135,Congestion,Network,5
+DE000162,SV00135,Signal failure,Infrastructure,2
+DE000163,SV00136,Points failure,Infrastructure,30
+DE000164,SV00137,Weather,External,52
+DE000165,SV00140,Rolling stock,Fleet,10
+DE000166,SV00141,Staffing,Operations,2
+DE000167,SV00141,Congestion,Network,7
+DE000168,SV00142,Passenger incident,External,35
+DE000169,SV00144,Signal failure,Infrastructure,19
+DE000170,SV00144,Track fault,Infrastructure,6
+DE000171,SV00145,Weather,External,2
+DE000172,SV00145,Passenger incident,External,11
+DE000173,SV00146,Track fault,Infrastructure,13
+DE000174,SV00147,Track fault,Infrastructure,25
+DE000175,SV00148,Congestion,Network,22
+DE000176,SV00149,Congestion,Network,4
+DE000177,SV00149,Congestion,Network,2
+DE000178,SV00151,Signal failure,Infrastructure,18
+DE000179,SV00152,Points failure,Infrastructure,25
+DE000180,SV00153,Congestion,Network,2
+DE000181,SV00153,Signal failure,Infrastructure,5
+DE000182,SV00154,Signal failure,Infrastructure,3
+DE000183,SV00154,Points failure,Infrastructure,5
+DE000184,SV00155,Congestion,Network,21
+DE000185,SV00156,Signal failure,Infrastructure,13
+DE000186,SV00158,Points failure,Infrastructure,7
+DE000187,SV00158,Congestion,Network,5
+DE000188,SV00159,Weather,External,1
+DE000189,SV00159,Passenger incident,External,19
+DE000190,SV00160,Passenger incident,External,26
+DE000191,SV00160,Points failure,Infrastructure,1
+DE000192,SV00161,Track fault,Infrastructure,12
+DE000193,SV00162,Passenger incident,External,24
+DE000194,SV00163,Weather,External,7
+DE000195,SV00163,Congestion,Network,27
+DE000196,SV00164,Congestion,Network,3
+DE000197,SV00165,Rolling stock,Fleet,12
+DE000198,SV00166,Track fault,Infrastructure,2
+DE000199,SV00166,Passenger incident,External,2
+DE000200,SV00167,Rolling stock,Fleet,2
+DE000201,SV00167,Rolling stock,Fleet,4
+DE000202,SV00168,Signal failure,Infrastructure,30
+DE000203,SV00169,Staffing,Operations,6
+DE000204,SV00170,Track fault,Infrastructure,3
+DE000205,SV00170,Rolling stock,Fleet,4
+DE000206,SV00171,Passenger incident,External,6
+DE000207,SV00172,Track fault,Infrastructure,2
+DE000208,SV00172,Track fault,Infrastructure,2
+DE000209,SV00173,Rolling stock,Fleet,16
+DE000210,SV00175,Weather,External,21
+DE000211,SV00176,Points failure,Infrastructure,15
+DE000212,SV00177,Weather,External,7
+DE000213,SV00177,Weather,External,20
+DE000214,SV00178,Track fault,Infrastructure,25
+DE000215,SV00179,Passenger incident,External,51
+DE000216,SV00180,Track fault,Infrastructure,28
+DE000217,SV00180,Track fault,Infrastructure,1
+DE000218,SV00181,Points failure,Infrastructure,11
+DE000219,SV00181,Rolling stock,Fleet,18
+DE000220,SV00182,Passenger incident,External,43
+DE000221,SV00185,Passenger incident,External,4
+DE000222,SV00186,Signal failure,Infrastructure,22
+DE000223,SV00187,Weather,External,12
+DE000224,SV00188,Weather,External,2
+DE000225,SV00188,Passenger incident,External,5
+DE000226,SV00189,Points failure,Infrastructure,14
+DE000227,SV00189,Points failure,Infrastructure,38
+DE000228,SV00190,Signal failure,Infrastructure,11
+DE000229,SV00191,Signal failure,Infrastructure,3
+DE000230,SV00191,Track fault,Infrastructure,14
+DE000231,SV00192,Congestion,Network,22
+DE000232,SV00193,Staffing,Operations,17
+DE000233,SV00194,Weather,External,41
+DE000234,SV00194,Track fault,Infrastructure,15
+DE000235,SV00195,Signal failure,Infrastructure,14
+DE000236,SV00197,Weather,External,5
+DE000237,SV00198,Rolling stock,Fleet,15
+DE000238,SV00198,Staffing,Operations,20
+DE000239,SV00199,Track fault,Infrastructure,24
+DE000240,SV00200,Rolling stock,Fleet,16
+DE000241,SV00201,Signal failure,Infrastructure,51
+DE000242,SV00203,Staffing,Operations,25
+DE000243,SV00204,Signal failure,Infrastructure,23
+DE000244,SV00205,Points failure,Infrastructure,35
+DE000245,SV00206,Track fault,Infrastructure,26
+DE000246,SV00207,Staffing,Operations,15
+DE000247,SV00208,Weather,External,12
+DE000248,SV00208,Track fault,Infrastructure,16
+DE000249,SV00209,Points failure,Infrastructure,9
+DE000250,SV00211,Congestion,Network,22
+DE000251,SV00212,Rolling stock,Fleet,22
+DE000252,SV00214,Weather,External,16
+DE000253,SV00215,Track fault,Infrastructure,6
+DE000254,SV00215,Points failure,Infrastructure,10
+DE000255,SV00216,Signal failure,Infrastructure,12
+DE000256,SV00218,Staffing,Operations,40
+DE000257,SV00219,Track fault,Infrastructure,51
+DE000258,SV00220,Signal failure,Infrastructure,35
+DE000259,SV00221,Rolling stock,Fleet,33
+DE000260,SV00221,Passenger incident,External,18
+DE000261,SV00222,Congestion,Network,18
+DE000262,SV00223,Congestion,Network,11
+DE000263,SV00223,Points failure,Infrastructure,27
+DE000264,SV00224,Passenger incident,External,17
+DE000265,SV00224,Passenger incident,External,13
+DE000266,SV00226,Track fault,Infrastructure,11
+DE000267,SV00227,Passenger incident,External,16
+DE000268,SV00227,Passenger incident,External,5
+DE000269,SV00228,Points failure,Infrastructure,41
+DE000270,SV00228,Signal failure,Infrastructure,11
+DE000271,SV00229,Weather,External,8
+DE000272,SV00230,Passenger incident,External,11
+DE000273,SV00231,Points failure,Infrastructure,8
+DE000274,SV00232,Staffing,Operations,47
+DE000275,SV00233,Points failure,Infrastructure,2
+DE000276,SV00233,Track fault,Infrastructure,3
+DE000277,SV00234,Congestion,Network,5
+DE000278,SV00234,Congestion,Network,12
+DE000279,SV00235,Passenger incident,External,5
+DE000280,SV00235,Track fault,Infrastructure,2
+DE000281,SV00236,Signal failure,Infrastructure,15
+DE000282,SV00239,Track fault,Infrastructure,2
+DE000283,SV00239,Passenger incident,External,1
+DE000284,SV00240,Points failure,Infrastructure,27
+DE000285,SV00240,Track fault,Infrastructure,17
+DE000286,SV00241,Track fault,Infrastructure,3
+DE000287,SV00241,Points failure,Infrastructure,3
+DE000288,SV00242,Rolling stock,Fleet,9
+DE000289,SV00243,Weather,External,9
+DE000290,SV00243,Congestion,Network,21
+DE000291,SV00244,Congestion,Network,5
+DE000292,SV00244,Congestion,Network,8
+DE000293,SV00245,Weather,External,4
+DE000294,SV00245,Congestion,Network,13
+DE000295,SV00246,Track fault,Infrastructure,18
+DE000296,SV00247,Weather,External,49
+DE000297,SV00248,Weather,External,11
+DE000298,SV00248,Track fault,Infrastructure,2
+DE000299,SV00249,Staffing,Operations,9
+DE000300,SV00249,Weather,External,11
+DE000301,SV00250,Staffing,Operations,24
+DE000302,SV00251,Staffing,Operations,4
+DE000303,SV00252,Track fault,Infrastructure,13
+DE000304,SV00252,Points failure,Infrastructure,11
+DE000305,SV00253,Passenger incident,External,19
+DE000306,SV00254,Points failure,Infrastructure,35
+DE000307,SV00255,Weather,External,4
+DE000308,SV00256,Passenger incident,External,35
+DE000309,SV00257,Passenger incident,External,47
+DE000310,SV00258,Track fault,Infrastructure,2
+DE000311,SV00258,Track fault,Infrastructure,11
+DE000312,SV00260,Points failure,Infrastructure,39
+DE000313,SV00261,Weather,External,15
+DE000314,SV00261,Passenger incident,External,7
+DE000315,SV00262,Track fault,Infrastructure,18
+DE000316,SV00263,Rolling stock,Fleet,52
+DE000317,SV00264,Signal failure,Infrastructure,2
+DE000318,SV00264,Track fault,Infrastructure,2
+DE000319,SV00265,Weather,External,4
+DE000320,SV00265,Points failure,Infrastructure,4
+DE000321,SV00266,Staffing,Operations,3
+DE000322,SV00266,Signal failure,Infrastructure,5
+DE000323,SV00267,Rolling stock,Fleet,24
+DE000324,SV00268,Track fault,Infrastructure,42
+DE000325,SV00270,Points failure,Infrastructure,7
+DE000326,SV00270,Points failure,Infrastructure,20
+DE000327,SV00271,Points failure,Infrastructure,21
+DE000328,SV00272,Passenger incident,External,5
+DE000329,SV00273,Track fault,Infrastructure,3
+DE000330,SV00274,Staffing,Operations,12
+DE000331,SV00274,Rolling stock,Fleet,67
+DE000332,SV00276,Rolling stock,Fleet,11
+DE000333,SV00277,Passenger incident,External,56
+DE000334,SV00278,Rolling stock,Fleet,45
+DE000335,SV00279,Congestion,Network,16
+DE000336,SV00280,Staffing,Operations,2
+DE000337,SV00280,Weather,External,3
+DE000338,SV00281,Congestion,Network,30
+DE000339,SV00281,Signal failure,Infrastructure,17
+DE000340,SV00282,Signal failure,Infrastructure,6
+DE000341,SV00282,Track fault,Infrastructure,26
+DE000342,SV00283,Points failure,Infrastructure,3
+DE000343,SV00283,Congestion,Network,11
+DE000344,SV00284,Points failure,Infrastructure,28
+DE000345,SV00285,Congestion,Network,25
+DE000346,SV00285,Weather,External,14
+DE000347,SV00286,Weather,External,9
+DE000348,SV00287,Points failure,Infrastructure,31
+DE000349,SV00287,Rolling stock,Fleet,5
+DE000350,SV00288,Weather,External,3
+DE000351,SV00288,Passenger incident,External,1
+DE000352,SV00289,Weather,External,1
+DE000353,SV00289,Rolling stock,Fleet,46
+DE000354,SV00290,Congestion,Network,7
+DE000355,SV00290,Weather,External,4
+DE000356,SV00293,Passenger incident,External,15
+DE000357,SV00293,Passenger incident,External,11
+DE000358,SV00294,Congestion,Network,12
+DE000359,SV00295,Passenger incident,External,12
+DE000360,SV00295,Staffing,Operations,14
+DE000361,SV00296,Rolling stock,Fleet,54
+DE000362,SV00296,Weather,External,14
+DE000363,SV00297,Points failure,Infrastructure,19
+DE000364,SV00298,Points failure,Infrastructure,43
+DE000365,SV00298,Rolling stock,Fleet,9
+DE000366,SV00300,Points failure,Infrastructure,12
+DE000367,SV00301,Weather,External,24
+DE000368,SV00302,Staffing,Operations,7
+DE000369,SV00304,Congestion,Network,12
+DE000370,SV00304,Weather,External,2
+DE000371,SV00305,Points failure,Infrastructure,4
+DE000372,SV00305,Track fault,Infrastructure,13
+DE000373,SV00306,Congestion,Network,39
+DE000374,SV00307,Points failure,Infrastructure,4
+DE000375,SV00307,Rolling stock,Fleet,4
+DE000376,SV00308,Weather,External,5
+DE000377,SV00308,Signal failure,Infrastructure,2
+DE000378,SV00310,Signal failure,Infrastructure,5
+DE000379,SV00310,Passenger incident,External,29
+DE000380,SV00311,Track fault,Infrastructure,24
+DE000381,SV00311,Points failure,Infrastructure,7
+DE000382,SV00312,Points failure,Infrastructure,10
+DE000383,SV00313,Signal failure,Infrastructure,17
+DE000384,SV00314,Congestion,Network,3
+DE000385,SV00314,Track fault,Infrastructure,6
+DE000386,SV00316,Passenger incident,External,4
+DE000387,SV00316,Congestion,Network,1
+DE000388,SV00317,Weather,External,7
+DE000389,SV00319,Rolling stock,Fleet,4
+DE000390,SV00319,Staffing,Operations,3
+DE000391,SV00320,Rolling stock,Fleet,6
+DE000392,SV00321,Congestion,Network,9
+DE000393,SV00324,Staffing,Operations,25
+DE000394,SV00326,Points failure,Infrastructure,8
+DE000395,SV00327,Congestion,Network,6
+DE000396,SV00329,Staffing,Operations,29
+DE000397,SV00330,Passenger incident,External,18
+DE000398,SV00332,Rolling stock,Fleet,4
+DE000399,SV00332,Signal failure,Infrastructure,9
+DE000400,SV00334,Passenger incident,External,9
+DE000401,SV00336,Congestion,Network,42
+DE000402,SV00337,Staffing,Operations,29
+DE000403,SV00337,Signal failure,Infrastructure,23
+DE000404,SV00339,Signal failure,Infrastructure,12
+DE000405,SV00341,Weather,External,16
+DE000406,SV00341,Track fault,Infrastructure,25
+DE000407,SV00342,Weather,External,35
+DE000408,SV00343,Signal failure,Infrastructure,6
+DE000409,SV00345,Signal failure,Infrastructure,1
+DE000410,SV00345,Track fault,Infrastructure,12
+DE000411,SV00348,Congestion,Network,36
+DE000412,SV00351,Congestion,Network,7
+DE000413,SV00352,Rolling stock,Fleet,8
+DE000414,SV00353,Points failure,Infrastructure,8
+DE000415,SV00354,Track fault,Infrastructure,16
+DE000416,SV00356,Weather,External,20
+DE000417,SV00356,Weather,External,12
+DE000418,SV00358,Points failure,Infrastructure,4
+DE000419,SV00358,Weather,External,23
+DE000420,SV00359,Congestion,Network,11
+DE000421,SV00361,Track fault,Infrastructure,3
+DE000422,SV00361,Signal failure,Infrastructure,6
+DE000423,SV00362,Track fault,Infrastructure,1
+DE000424,SV00362,Points failure,Infrastructure,13
+DE000425,SV00364,Passenger incident,External,27
+DE000426,SV00365,Congestion,Network,35
+DE000427,SV00366,Track fault,Infrastructure,1
+DE000428,SV00366,Congestion,Network,14
+DE000429,SV00367,Points failure,Infrastructure,33
+DE000430,SV00368,Passenger incident,External,7
+DE000431,SV00368,Rolling stock,Fleet,43
+DE000432,SV00369,Congestion,Network,11
+DE000433,SV00369,Points failure,Infrastructure,6
+DE000434,SV00370,Track fault,Infrastructure,15
+DE000435,SV00371,Track fault,Infrastructure,34
+DE000436,SV00373,Congestion,Network,2
+DE000437,SV00373,Signal failure,Infrastructure,1
+DE000438,SV00374,Points failure,Infrastructure,5
+DE000439,SV00374,Weather,External,3
+DE000440,SV00375,Weather,External,12
+DE000441,SV00376,Congestion,Network,5
+DE000442,SV00377,Weather,External,3
+DE000443,SV00377,Points failure,Infrastructure,1
+DE000444,SV00378,Congestion,Network,22
+DE000445,SV00379,Rolling stock,Fleet,35
+DE000446,SV00380,Passenger incident,External,3
+DE000447,SV00380,Weather,External,5
+DE000448,SV00381,Points failure,Infrastructure,5
+DE000449,SV00383,Signal failure,Infrastructure,49
+DE000450,SV00384,Passenger incident,External,35
+DE000451,SV00386,Rolling stock,Fleet,18
+DE000452,SV00386,Track fault,Infrastructure,20
+DE000453,SV00387,Points failure,Infrastructure,47
+DE000454,SV00388,Signal failure,Infrastructure,8
+DE000455,SV00388,Track fault,Infrastructure,22
+DE000456,SV00389,Weather,External,7
+DE000457,SV00389,Signal failure,Infrastructure,22
+DE000458,SV00390,Weather,External,19
+DE000459,SV00391,Track fault,Infrastructure,6
+DE000460,SV00391,Passenger incident,External,12
+DE000461,SV00394,Congestion,Network,41
+DE000462,SV00395,Congestion,Network,13
+DE000463,SV00395,Signal failure,Infrastructure,21
+DE000464,SV00396,Weather,External,18
+DE000465,SV00397,Congestion,Network,20
+DE000466,SV00399,Weather,External,24
+DE000467,SV00400,Congestion,Network,6
+DE000468,SV00401,Passenger incident,External,3
+DE000469,SV00401,Rolling stock,Fleet,4
+DE000470,SV00402,Weather,External,52
+DE000471,SV00404,Rolling stock,Fleet,2
+DE000472,SV00404,Staffing,Operations,3
+DE000473,SV00405,Passenger incident,External,13
+DE000474,SV00405,Staffing,Operations,22
+DE000475,SV00406,Congestion,Network,3
+DE000476,SV00406,Points failure,Infrastructure,5
+DE000477,SV00407,Rolling stock,Fleet,2
+DE000478,SV00407,Passenger incident,External,1
+DE000479,SV00408,Points failure,Infrastructure,1
+DE000480,SV00408,Passenger incident,External,2
+DE000481,SV00409,Points failure,Infrastructure,22
+DE000482,SV00410,Congestion,Network,13
+DE000483,SV00410,Staffing,Operations,2
+DE000484,SV00411,Rolling stock,Fleet,11
+DE000485,SV00412,Points failure,Infrastructure,4
+DE000486,SV00412,Staffing,Operations,2
+DE000487,SV00413,Staffing,Operations,7
+DE000488,SV00413,Passenger incident,External,2
+DE000489,SV00415,Track fault,Infrastructure,34
+DE000490,SV00417,Passenger incident,External,16
+DE000491,SV00418,Rolling stock,Fleet,12
+DE000492,SV00421,Signal failure,Infrastructure,20
+DE000493,SV00422,Track fault,Infrastructure,13
+DE000494,SV00423,Points failure,Infrastructure,2
+DE000495,SV00423,Points failure,Infrastructure,2
+DE000496,SV00424,Points failure,Infrastructure,32
+DE000497,SV00424,Staffing,Operations,3
+DE000498,SV00425,Points failure,Infrastructure,25
+DE000499,SV00427,Congestion,Network,14
+DE000500,SV00429,Rolling stock,Fleet,4
+DE000501,SV00429,Points failure,Infrastructure,9
+DE000502,SV00432,Track fault,Infrastructure,17
+DE000503,SV00432,Passenger incident,External,12
+DE000504,SV00434,Signal failure,Infrastructure,13
+DE000505,SV00434,Points failure,Infrastructure,5
+DE000506,SV00435,Weather,External,28
+DE000507,SV00436,Signal failure,Infrastructure,24
+DE000508,SV00436,Signal failure,Infrastructure,19
+DE000509,SV00437,Staffing,Operations,11
+DE000510,SV00438,Rolling stock,Fleet,5
+DE000511,SV00438,Weather,External,7
+DE000512,SV00439,Signal failure,Infrastructure,34
+DE000513,SV00440,Congestion,Network,4
+DE000514,SV00441,Points failure,Infrastructure,11
+DE000515,SV00441,Weather,External,64
+DE000516,SV00442,Rolling stock,Fleet,28
+DE000517,SV00442,Staffing,Operations,17
+DE000518,SV00443,Points failure,Infrastructure,76
+DE000519,SV00443,Staffing,Operations,8
+DE000520,SV00444,Congestion,Network,1
+DE000521,SV00444,Track fault,Infrastructure,5
+DE000522,SV00446,Staffing,Operations,17
+DE000523,SV00447,Points failure,Infrastructure,21
+DE000524,SV00448,Signal failure,Infrastructure,11
+DE000525,SV00448,Passenger incident,External,24
+DE000526,SV00449,Congestion,Network,35
+DE000527,SV00451,Points failure,Infrastructure,10
+DE000528,SV00452,Staffing,Operations,47
+DE000529,SV00452,Points failure,Infrastructure,6
+DE000530,SV00455,Rolling stock,Fleet,3
+DE000531,SV00457,Rolling stock,Fleet,3
+DE000532,SV00457,Weather,External,8
+DE000533,SV00458,Rolling stock,Fleet,5
+DE000534,SV00458,Congestion,Network,1
+DE000535,SV00460,Weather,External,2
+DE000536,SV00460,Weather,External,5
+DE000537,SV00461,Rolling stock,Fleet,46
+DE000538,SV00462,Staffing,Operations,5
+DE000539,SV00463,Passenger incident,External,20
+DE000540,SV00463,Congestion,Network,1
+DE000541,SV00464,Congestion,Network,35
+DE000542,SV00465,Congestion,Network,13
+DE000543,SV00465,Congestion,Network,19
+DE000544,SV00466,Congestion,Network,6
+DE000545,SV00466,Signal failure,Infrastructure,9
+DE000546,SV00467,Passenger incident,External,49
+DE000547,SV00469,Congestion,Network,1
+DE000548,SV00469,Signal failure,Infrastructure,26
+DE000549,SV00470,Signal failure,Infrastructure,11
+DE000550,SV00470,Signal failure,Infrastructure,2
+DE000551,SV00471,Weather,External,3
+DE000552,SV00473,Points failure,Infrastructure,13
+DE000553,SV00474,Passenger incident,External,8
+DE000554,SV00474,Track fault,Infrastructure,4
+DE000555,SV00477,Track fault,Infrastructure,6
+DE000556,SV00477,Track fault,Infrastructure,9
+DE000557,SV00478,Weather,External,24
+DE000558,SV00478,Points failure,Infrastructure,22
+DE000559,SV00479,Signal failure,Infrastructure,12
+DE000560,SV00479,Track fault,Infrastructure,7
+DE000561,SV00480,Signal failure,Infrastructure,10
+DE000562,SV00481,Points failure,Infrastructure,3
+DE000563,SV00481,Signal failure,Infrastructure,6
+DE000564,SV00482,Staffing,Operations,8
+DE000565,SV00483,Track fault,Infrastructure,9
+DE000566,SV00484,Passenger incident,External,5
+DE000567,SV00484,Points failure,Infrastructure,2
+DE000568,SV00485,Signal failure,Infrastructure,29
+DE000569,SV00486,Signal failure,Infrastructure,2
+DE000570,SV00486,Signal failure,Infrastructure,1
+DE000571,SV00488,Passenger incident,External,15
+DE000572,SV00488,Passenger incident,External,31
+DE000573,SV00489,Congestion,Network,12
+DE000574,SV00489,Points failure,Infrastructure,7
+DE000575,SV00492,Congestion,Network,4
+DE000576,SV00492,Staffing,Operations,1
+DE000577,SV00493,Rolling stock,Fleet,3
+DE000578,SV00494,Rolling stock,Fleet,3
+DE000579,SV00496,Congestion,Network,10
+DE000580,SV00496,Passenger incident,External,12
+DE000581,SV00497,Passenger incident,External,10
+DE000582,SV00499,Passenger incident,External,27
+DE000583,SV00500,Weather,External,9
+DE000584,SV00501,Rolling stock,Fleet,24
+DE000585,SV00502,Congestion,Network,35
+DE000586,SV00503,Signal failure,Infrastructure,11
+DE000587,SV00503,Track fault,Infrastructure,39
+DE000588,SV00505,Staffing,Operations,8
+DE000589,SV00505,Staffing,Operations,24
+DE000590,SV00506,Congestion,Network,3
+DE000591,SV00506,Rolling stock,Fleet,1
+DE000592,SV00507,Congestion,Network,23
+DE000593,SV00507,Track fault,Infrastructure,1
+DE000594,SV00508,Congestion,Network,25
+DE000595,SV00509,Points failure,Infrastructure,13
+DE000596,SV00509,Points failure,Infrastructure,7
+DE000597,SV00510,Weather,External,12
+DE000598,SV00511,Congestion,Network,10
+DE000599,SV00511,Congestion,Network,14
+DE000600,SV00512,Congestion,Network,13
+DE000601,SV00513,Weather,External,8
+DE000602,SV00513,Track fault,Infrastructure,27
+DE000603,SV00514,Track fault,Infrastructure,10
+DE000604,SV00515,Signal failure,Infrastructure,20
+DE000605,SV00515,Signal failure,Infrastructure,31
+DE000606,SV00516,Points failure,Infrastructure,9
+DE000607,SV00518,Track fault,Infrastructure,24
+DE000608,SV00518,Rolling stock,Fleet,11
+DE000609,SV00519,Congestion,Network,4
+DE000610,SV00520,Signal failure,Infrastructure,35
+DE000611,SV00520,Passenger incident,External,10
+DE000612,SV00521,Rolling stock,Fleet,3
+DE000613,SV00521,Weather,External,3
+DE000614,SV00523,Passenger incident,External,5
+DE000615,SV00523,Staffing,Operations,15
+DE000616,SV00524,Signal failure,Infrastructure,16
+DE000617,SV00525,Staffing,Operations,33
+DE000618,SV00525,Congestion,Network,19
+DE000619,SV00526,Passenger incident,External,81
+DE000620,SV00526,Weather,External,3
+DE000621,SV00528,Staffing,Operations,7
+DE000622,SV00528,Signal failure,Infrastructure,3
+DE000623,SV00529,Rolling stock,Fleet,14
+DE000624,SV00529,Weather,External,31
+DE000625,SV00530,Rolling stock,Fleet,8
+DE000626,SV00531,Points failure,Infrastructure,3
+DE000627,SV00531,Rolling stock,Fleet,5
+DE000628,SV00533,Points failure,Infrastructure,56
+DE000629,SV00535,Points failure,Infrastructure,8
+DE000630,SV00535,Track fault,Infrastructure,3
+DE000631,SV00536,Points failure,Infrastructure,10
+DE000632,SV00536,Staffing,Operations,66
+DE000633,SV00537,Weather,External,2
+DE000634,SV00537,Congestion,Network,1
+DE000635,SV00538,Track fault,Infrastructure,59
+DE000636,SV00539,Staffing,Operations,37
+DE000637,SV00541,Rolling stock,Fleet,1
+DE000638,SV00541,Passenger incident,External,2
+DE000639,SV00543,Staffing,Operations,5
+DE000640,SV00543,Weather,External,19
+DE000641,SV00545,Weather,External,13
+DE000642,SV00546,Track fault,Infrastructure,48
+DE000643,SV00547,Rolling stock,Fleet,34
+DE000644,SV00548,Points failure,Infrastructure,6
+DE000645,SV00548,Signal failure,Infrastructure,14
+DE000646,SV00551,Track fault,Infrastructure,8
+DE000647,SV00552,Rolling stock,Fleet,1
+DE000648,SV00552,Congestion,Network,3
+DE000649,SV00555,Points failure,Infrastructure,10
+DE000650,SV00555,Points failure,Infrastructure,31
+DE000651,SV00556,Signal failure,Infrastructure,25
+DE000652,SV00557,Weather,External,13
+DE000653,SV00558,Passenger incident,External,2
+DE000654,SV00558,Rolling stock,Fleet,1
+DE000655,SV00559,Congestion,Network,2
+DE000656,SV00559,Points failure,Infrastructure,1
+DE000657,SV00560,Passenger incident,External,2
+DE000658,SV00560,Signal failure,Infrastructure,1
+DE000659,SV00561,Congestion,Network,24
+DE000660,SV00564,Congestion,Network,24
+DE000661,SV00565,Weather,External,1
+DE000662,SV00565,Passenger incident,External,2
+DE000663,SV00566,Congestion,Network,19
+DE000664,SV00566,Rolling stock,Fleet,7
+DE000665,SV00567,Passenger incident,External,14
+DE000666,SV00567,Staffing,Operations,5
+DE000667,SV00571,Congestion,Network,52
+DE000668,SV00572,Congestion,Network,35
+DE000669,SV00572,Rolling stock,Fleet,8
+DE000670,SV00573,Signal failure,Infrastructure,13
+DE000671,SV00573,Passenger incident,External,19
+DE000672,SV00574,Congestion,Network,29
+DE000673,SV00575,Congestion,Network,37
+DE000674,SV00577,Rolling stock,Fleet,15
+DE000675,SV00578,Passenger incident,External,84
+DE000676,SV00579,Congestion,Network,3
+DE000677,SV00579,Rolling stock,Fleet,43
+DE000678,SV00580,Rolling stock,Fleet,17
+DE000679,SV00581,Staffing,Operations,6
+DE000680,SV00582,Congestion,Network,20
+DE000681,SV00584,Staffing,Operations,10
+DE000682,SV00585,Rolling stock,Fleet,14
+DE000683,SV00585,Signal failure,Infrastructure,4
+DE000684,SV00586,Staffing,Operations,10
+DE000685,SV00587,Staffing,Operations,3
+DE000686,SV00588,Rolling stock,Fleet,74
+DE000687,SV00588,Passenger incident,External,5
+DE000688,SV00589,Track fault,Infrastructure,18
+DE000689,SV00589,Weather,External,1
+DE000690,SV00590,Signal failure,Infrastructure,56
+DE000691,SV00591,Signal failure,Infrastructure,51
+DE000692,SV00593,Rolling stock,Fleet,15
+DE000693,SV00594,Weather,External,9
+DE000694,SV00594,Weather,External,34
+DE000695,SV00595,Staffing,Operations,5
+DE000696,SV00595,Points failure,Infrastructure,15
+DE000697,SV00596,Staffing,Operations,30
+DE000698,SV00597,Points failure,Infrastructure,42
+DE000699,SV00597,Rolling stock,Fleet,2
+DE000700,SV00598,Passenger incident,External,2
+DE000701,SV00598,Staffing,Operations,9
+DE000702,SV00599,Rolling stock,Fleet,9
+DE000703,SV00599,Weather,External,6
+DE000704,SV00601,Staffing,Operations,23
+DE000705,SV00602,Track fault,Infrastructure,9
+DE000706,SV00603,Points failure,Infrastructure,18
+DE000707,SV00605,Track fault,Infrastructure,18
+DE000708,SV00606,Points failure,Infrastructure,2
+DE000709,SV00606,Weather,External,41
+DE000710,SV00607,Staffing,Operations,18
+DE000711,SV00608,Congestion,Network,9
+DE000712,SV00609,Congestion,Network,11
+DE000713,SV00609,Congestion,Network,18
+DE000714,SV00611,Track fault,Infrastructure,18
+DE000715,SV00611,Rolling stock,Fleet,17
+DE000716,SV00612,Staffing,Operations,5
+DE000717,SV00613,Congestion,Network,56
+DE000718,SV00614,Weather,External,4
+DE000719,SV00614,Congestion,Network,1
+DE000720,SV00615,Rolling stock,Fleet,11
+DE000721,SV00616,Passenger incident,External,7
+DE000722,SV00616,Track fault,Infrastructure,40
+DE000723,SV00618,Staffing,Operations,7
+DE000724,SV00618,Signal failure,Infrastructure,26
+DE000725,SV00619,Track fault,Infrastructure,12
+DE000726,SV00621,Rolling stock,Fleet,23
+DE000727,SV00621,Points failure,Infrastructure,33
+DE000728,SV00622,Rolling stock,Fleet,17
+DE000729,SV00622,Signal failure,Infrastructure,18
+DE000730,SV00623,Rolling stock,Fleet,9
+DE000731,SV00626,Points failure,Infrastructure,26
+DE000732,SV00627,Signal failure,Infrastructure,12
+DE000733,SV00627,Weather,External,7
+DE000734,SV00628,Passenger incident,External,6
+DE000735,SV00628,Passenger incident,External,17
+DE000736,SV00630,Passenger incident,External,33
+DE000737,SV00630,Staffing,Operations,19
+DE000738,SV00631,Points failure,Infrastructure,5
+DE000739,SV00631,Weather,External,1
+DE000740,SV00632,Congestion,Network,10
+DE000741,SV00632,Points failure,Infrastructure,8
+DE000742,SV00634,Congestion,Network,3
+DE000743,SV00634,Congestion,Network,15
+DE000744,SV00637,Congestion,Network,14
+DE000745,SV00638,Signal failure,Infrastructure,36
+DE000746,SV00639,Staffing,Operations,21
+DE000747,SV00640,Signal failure,Infrastructure,7
+DE000748,SV00640,Rolling stock,Fleet,2
+DE000749,SV00641,Passenger incident,External,17
+DE000750,SV00641,Congestion,Network,13
+DE000751,SV00643,Signal failure,Infrastructure,10
+DE000752,SV00643,Weather,External,2
+DE000753,SV00644,Points failure,Infrastructure,5
+DE000754,SV00645,Weather,External,34
+DE000755,SV00645,Signal failure,Infrastructure,3
+DE000756,SV00646,Rolling stock,Fleet,11
+DE000757,SV00646,Weather,External,2
+DE000758,SV00648,Congestion,Network,10
+DE000759,SV00649,Rolling stock,Fleet,12
+DE000760,SV00649,Signal failure,Infrastructure,5
+DE000761,SV00652,Passenger incident,External,13
+DE000762,SV00652,Rolling stock,Fleet,4
+DE000763,SV00653,Congestion,Network,6
+DE000764,SV00653,Weather,External,3
+DE000765,SV00654,Staffing,Operations,30
+DE000766,SV00655,Passenger incident,External,5
+DE000767,SV00655,Staffing,Operations,7
+DE000768,SV00656,Signal failure,Infrastructure,11
+DE000769,SV00658,Weather,External,10
+DE000770,SV00658,Signal failure,Infrastructure,10
+DE000771,SV00659,Passenger incident,External,1
+DE000772,SV00659,Track fault,Infrastructure,13
+DE000773,SV00660,Passenger incident,External,10
+DE000774,SV00663,Staffing,Operations,23
+DE000775,SV00663,Congestion,Network,11
+DE000776,SV00664,Track fault,Infrastructure,30
+DE000777,SV00665,Points failure,Infrastructure,51
+DE000778,SV00666,Signal failure,Infrastructure,2
+DE000779,SV00666,Points failure,Infrastructure,12
+DE000780,SV00667,Weather,External,3
+DE000781,SV00667,Rolling stock,Fleet,16
+DE000782,SV00669,Congestion,Network,16
+DE000783,SV00669,Signal failure,Infrastructure,4
+DE000784,SV00670,Staffing,Operations,12
+DE000785,SV00672,Passenger incident,External,16
+DE000786,SV00673,Track fault,Infrastructure,3
+DE000787,SV00673,Track fault,Infrastructure,4
+DE000788,SV00674,Rolling stock,Fleet,3
+DE000789,SV00674,Staffing,Operations,1
+DE000790,SV00675,Passenger incident,External,5
+DE000791,SV00676,Rolling stock,Fleet,5
+DE000792,SV00676,Track fault,Infrastructure,27
+DE000793,SV00678,Signal failure,Infrastructure,12
+DE000794,SV00678,Weather,External,19
+DE000795,SV00679,Weather,External,52
+DE000796,SV00680,Signal failure,Infrastructure,2
+DE000797,SV00680,Points failure,Infrastructure,5
+DE000798,SV00682,Track fault,Infrastructure,1
+DE000799,SV00682,Rolling stock,Fleet,7
+DE000800,SV00684,Passenger incident,External,6
+DE000801,SV00685,Congestion,Network,14
+DE000802,SV00685,Passenger incident,External,7
+DE000803,SV00687,Rolling stock,Fleet,6
+DE000804,SV00687,Points failure,Infrastructure,9
+DE000805,SV00689,Rolling stock,Fleet,2
+DE000806,SV00689,Congestion,Network,11
+DE000807,SV00693,Rolling stock,Fleet,10
+DE000808,SV00694,Track fault,Infrastructure,43
+DE000809,SV00695,Weather,External,5
+DE000810,SV00696,Track fault,Infrastructure,13
+DE000811,SV00697,Signal failure,Infrastructure,4
+DE000812,SV00697,Passenger incident,External,1
+DE000813,SV00698,Staffing,Operations,4
+DE000814,SV00698,Congestion,Network,2
+DE000815,SV00699,Weather,External,20
+DE000816,SV00699,Rolling stock,Fleet,1
+DE000817,SV00700,Weather,External,17
+DE000818,SV00701,Congestion,Network,9
+DE000819,SV00701,Weather,External,16
+DE000820,SV00703,Weather,External,8
+DE000821,SV00703,Congestion,Network,5
+DE000822,SV00704,Weather,External,35
+DE000823,SV00705,Weather,External,9
+DE000824,SV00706,Rolling stock,Fleet,19
+DE000825,SV00707,Signal failure,Infrastructure,18
+DE000826,SV00707,Weather,External,38
+DE000827,SV00708,Points failure,Infrastructure,84
+DE000828,SV00709,Weather,External,5
+DE000829,SV00710,Signal failure,Infrastructure,6
+DE000830,SV00711,Points failure,Infrastructure,34
+DE000831,SV00711,Staffing,Operations,9
+DE000832,SV00712,Weather,External,3
+DE000833,SV00713,Points failure,Infrastructure,16
+DE000834,SV00713,Signal failure,Infrastructure,7
+DE000835,SV00714,Signal failure,Infrastructure,20
+DE000836,SV00714,Congestion,Network,32
+DE000837,SV00716,Track fault,Infrastructure,36
+DE000838,SV00716,Track fault,Infrastructure,29
+DE000839,SV00717,Weather,External,6
+DE000840,SV00717,Signal failure,Infrastructure,10
+DE000841,SV00719,Signal failure,Infrastructure,50
+DE000842,SV00721,Signal failure,Infrastructure,9
+DE000843,SV00722,Weather,External,5
+DE000844,SV00722,Passenger incident,External,5
+DE000845,SV00723,Congestion,Network,28
+DE000846,SV00723,Rolling stock,Fleet,9
+DE000847,SV00724,Passenger incident,External,6
+DE000848,SV00724,Track fault,Infrastructure,5
+DE000849,SV00725,Congestion,Network,7
+DE000850,SV00725,Signal failure,Infrastructure,42
+DE000851,SV00727,Track fault,Infrastructure,35
+DE000852,SV00728,Track fault,Infrastructure,12
+DE000853,SV00728,Weather,External,5
+DE000854,SV00729,Weather,External,13
+DE000855,SV00729,Congestion,Network,6
+DE000856,SV00731,Rolling stock,Fleet,15
+DE000857,SV00733,Signal failure,Infrastructure,35
+DE000858,SV00734,Weather,External,9
+DE000859,SV00735,Congestion,Network,2
+DE000860,SV00735,Track fault,Infrastructure,14
+DE000861,SV00736,Passenger incident,External,7
+DE000862,SV00736,Rolling stock,Fleet,10
+DE000863,SV00739,Rolling stock,Fleet,4
+DE000864,SV00741,Points failure,Infrastructure,21
+DE000865,SV00743,Track fault,Infrastructure,3
+DE000866,SV00743,Passenger incident,External,2
+DE000867,SV00744,Points failure,Infrastructure,52
+DE000868,SV00745,Passenger incident,External,12
+DE000869,SV00746,Signal failure,Infrastructure,6
+DE000870,SV00746,Staffing,Operations,25
+DE000871,SV00749,Staffing,Operations,7
+DE000872,SV00750,Signal failure,Infrastructure,3
+DE000873,SV00751,Points failure,Infrastructure,15
+DE000874,SV00753,Congestion,Network,6
+DE000875,SV00753,Passenger incident,External,12
+DE000876,SV00754,Points failure,Infrastructure,26
+DE000877,SV00754,Staffing,Operations,16
+DE000878,SV00755,Rolling stock,Fleet,24
+DE000879,SV00756,Rolling stock,Fleet,34
+DE000880,SV00758,Signal failure,Infrastructure,44
+DE000881,SV00759,Staffing,Operations,20
+DE000882,SV00759,Weather,External,23
+DE000883,SV00762,Staffing,Operations,18
+DE000884,SV00762,Congestion,Network,6
+DE000885,SV00763,Weather,External,8
+DE000886,SV00764,Weather,External,14
+DE000887,SV00765,Signal failure,Infrastructure,21
+DE000888,SV00765,Rolling stock,Fleet,3
+DE000889,SV00766,Rolling stock,Fleet,18
+DE000890,SV00766,Signal failure,Infrastructure,38
+DE000891,SV00767,Weather,External,9
+DE000892,SV00768,Signal failure,Infrastructure,20
+DE000893,SV00770,Track fault,Infrastructure,6
+DE000894,SV00770,Congestion,Network,4
+DE000895,SV00771,Rolling stock,Fleet,14
+DE000896,SV00771,Staffing,Operations,8
+DE000897,SV00772,Signal failure,Infrastructure,1
+DE000898,SV00772,Track fault,Infrastructure,34
+DE000899,SV00773,Staffing,Operations,16
+DE000900,SV00775,Staffing,Operations,26
+DE000901,SV00776,Congestion,Network,12
+DE000902,SV00777,Staffing,Operations,18
+DE000903,SV00777,Weather,External,1
+DE000904,SV00778,Weather,External,6
+DE000905,SV00778,Staffing,Operations,10
+DE000906,SV00779,Points failure,Infrastructure,51
+DE000907,SV00781,Passenger incident,External,16
+DE000908,SV00782,Points failure,Infrastructure,10
+DE000909,SV00784,Rolling stock,Fleet,16
+DE000910,SV00784,Congestion,Network,8
+DE000911,SV00785,Rolling stock,Fleet,15
+DE000912,SV00785,Rolling stock,Fleet,12
+DE000913,SV00786,Weather,External,32
+DE000914,SV00787,Rolling stock,Fleet,42
+DE000915,SV00787,Staffing,Operations,11
+DE000916,SV00789,Staffing,Operations,50
+DE000917,SV00790,Rolling stock,Fleet,39
+DE000918,SV00791,Weather,External,5
+DE000919,SV00791,Rolling stock,Fleet,36
+DE000920,SV00792,Points failure,Infrastructure,23
+DE000921,SV00793,Passenger incident,External,5
+DE000922,SV00794,Congestion,Network,9
+DE000923,SV00794,Rolling stock,Fleet,3
+DE000924,SV00795,Congestion,Network,15
+DE000925,SV00797,Points failure,Infrastructure,1
+DE000926,SV00797,Congestion,Network,23
+DE000927,SV00798,Signal failure,Infrastructure,6
+DE000928,SV00799,Weather,External,9
+DE000929,SV00802,Staffing,Operations,7
+DE000930,SV00803,Signal failure,Infrastructure,14
+DE000931,SV00804,Congestion,Network,19
+DE000932,SV00805,Congestion,Network,13
+DE000933,SV00805,Rolling stock,Fleet,39
+DE000934,SV00806,Passenger incident,External,3
+DE000935,SV00806,Staffing,Operations,6
+DE000936,SV00807,Passenger incident,External,1
+DE000937,SV00807,Weather,External,3
+DE000938,SV00809,Staffing,Operations,10
+DE000939,SV00810,Signal failure,Infrastructure,20
+DE000940,SV00811,Congestion,Network,12
+DE000941,SV00812,Congestion,Network,17
+DE000942,SV00812,Points failure,Infrastructure,4
+DE000943,SV00813,Signal failure,Infrastructure,21
+DE000944,SV00814,Signal failure,Infrastructure,5
+DE000945,SV00815,Points failure,Infrastructure,4
+DE000946,SV00816,Rolling stock,Fleet,23
+DE000947,SV00816,Staffing,Operations,11
+DE000948,SV00818,Points failure,Infrastructure,16
+DE000949,SV00819,Passenger incident,External,49
+DE000950,SV00820,Congestion,Network,10
+DE000951,SV00821,Congestion,Network,17
+DE000952,SV00822,Track fault,Infrastructure,5
+DE000953,SV00822,Track fault,Infrastructure,47
+DE000954,SV00823,Track fault,Infrastructure,22
+DE000955,SV00824,Signal failure,Infrastructure,11
+DE000956,SV00825,Rolling stock,Fleet,7
+DE000957,SV00827,Track fault,Infrastructure,1
+DE000958,SV00827,Points failure,Infrastructure,2
+DE000959,SV00828,Staffing,Operations,18
+DE000960,SV00829,Track fault,Infrastructure,15
+DE000961,SV00829,Congestion,Network,1
+DE000962,SV00830,Passenger incident,External,12
+DE000963,SV00830,Staffing,Operations,5
+DE000964,SV00832,Signal failure,Infrastructure,10
+DE000965,SV00833,Rolling stock,Fleet,8
+DE000966,SV00834,Rolling stock,Fleet,4
+DE000967,SV00834,Passenger incident,External,1
+DE000968,SV00835,Congestion,Network,2
+DE000969,SV00835,Points failure,Infrastructure,10
+DE000970,SV00836,Rolling stock,Fleet,3
+DE000971,SV00836,Track fault,Infrastructure,15
+DE000972,SV00837,Rolling stock,Fleet,31
+DE000973,SV00838,Track fault,Infrastructure,6
+DE000974,SV00838,Passenger incident,External,9
+DE000975,SV00839,Passenger incident,External,12
+DE000976,SV00839,Points failure,Infrastructure,4
+DE000977,SV00840,Rolling stock,Fleet,8
+DE000978,SV00840,Points failure,Infrastructure,11
+DE000979,SV00844,Passenger incident,External,5
+DE000980,SV00844,Passenger incident,External,1
+DE000981,SV00845,Points failure,Infrastructure,9
+DE000982,SV00846,Points failure,Infrastructure,3
+DE000983,SV00847,Congestion,Network,14
+DE000984,SV00848,Track fault,Infrastructure,5
+DE000985,SV00849,Weather,External,25
+DE000986,SV00850,Track fault,Infrastructure,84
+DE000987,SV00851,Rolling stock,Fleet,8
+DE000988,SV00851,Signal failure,Infrastructure,37
+DE000989,SV00853,Track fault,Infrastructure,9
+DE000990,SV00853,Staffing,Operations,26
+DE000991,SV00854,Rolling stock,Fleet,9
+DE000992,SV00854,Points failure,Infrastructure,4
+DE000993,SV00855,Weather,External,3
+DE000994,SV00856,Signal failure,Infrastructure,10
+DE000995,SV00858,Congestion,Network,42
+DE000996,SV00859,Points failure,Infrastructure,26
+DE000997,SV00860,Points failure,Infrastructure,29
+DE000998,SV00865,Signal failure,Infrastructure,7
+DE000999,SV00865,Congestion,Network,28
+DE001000,SV00866,Rolling stock,Fleet,1
+DE001001,SV00866,Rolling stock,Fleet,3
+DE001002,SV00868,Rolling stock,Fleet,6
+DE001003,SV00868,Weather,External,50
+DE001004,SV00869,Signal failure,Infrastructure,12
+DE001005,SV00870,Rolling stock,Fleet,12
+DE001006,SV00870,Passenger incident,External,26
+DE001007,SV00871,Staffing,Operations,19
+DE001008,SV00872,Points failure,Infrastructure,6
+DE001009,SV00872,Passenger incident,External,3
+DE001010,SV00873,Staffing,Operations,35
+DE001011,SV00874,Rolling stock,Fleet,9
+DE001012,SV00875,Signal failure,Infrastructure,32
+DE001013,SV00876,Rolling stock,Fleet,39
+DE001014,SV00878,Points failure,Infrastructure,47
+DE001015,SV00879,Passenger incident,External,36
+DE001016,SV00879,Staffing,Operations,16
+DE001017,SV00880,Weather,External,14
+DE001018,SV00880,Rolling stock,Fleet,15
+DE001019,SV00881,Congestion,Network,17
+DE001020,SV00881,Points failure,Infrastructure,12
+DE001021,SV00882,Weather,External,39
+DE001022,SV00884,Signal failure,Infrastructure,15
+DE001023,SV00884,Points failure,Infrastructure,32
+DE001024,SV00887,Congestion,Network,60
+DE001025,SV00888,Passenger incident,External,11
+DE001026,SV00888,Points failure,Infrastructure,18
+DE001027,SV00889,Rolling stock,Fleet,4
+DE001028,SV00889,Track fault,Infrastructure,31
+DE001029,SV00890,Weather,External,3
+DE001030,SV00890,Congestion,Network,3
+DE001031,SV00891,Congestion,Network,35
+DE001032,SV00893,Track fault,Infrastructure,1
+DE001033,SV00893,Weather,External,23
+DE001034,SV00896,Rolling stock,Fleet,5
+DE001035,SV00896,Congestion,Network,2
+DE001036,SV00897,Weather,External,41
+DE001037,SV00898,Staffing,Operations,24
+DE001038,SV00899,Weather,External,20
+DE001039,SV00901,Weather,External,25
+DE001040,SV00902,Congestion,Network,37
+DE001041,SV00902,Signal failure,Infrastructure,4
+DE001042,SV00903,Signal failure,Infrastructure,2
+DE001043,SV00903,Track fault,Infrastructure,17
+DE001044,SV00904,Staffing,Operations,12
+DE001045,SV00905,Track fault,Infrastructure,4
+DE001046,SV00906,Points failure,Infrastructure,9
+DE001047,SV00906,Weather,External,2
+DE001048,SV00907,Points failure,Infrastructure,12
+DE001049,SV00907,Rolling stock,Fleet,8
+DE001050,SV00908,Track fault,Infrastructure,24
+DE001051,SV00909,Congestion,Network,9
+DE001052,SV00909,Rolling stock,Fleet,2
+DE001053,SV00910,Points failure,Infrastructure,41
+DE001054,SV00911,Signal failure,Infrastructure,10
+DE001055,SV00911,Rolling stock,Fleet,15
+DE001056,SV00912,Passenger incident,External,11
+DE001057,SV00913,Congestion,Network,10
+DE001058,SV00914,Weather,External,4
+DE001059,SV00915,Rolling stock,Fleet,13
+DE001060,SV00916,Passenger incident,External,26
+DE001061,SV00916,Rolling stock,Fleet,6
+DE001062,SV00917,Staffing,Operations,12
+DE001063,SV00917,Points failure,Infrastructure,8
+DE001064,SV00919,Points failure,Infrastructure,9
+DE001065,SV00923,Weather,External,18
+DE001066,SV00924,Rolling stock,Fleet,23
+DE001067,SV00927,Congestion,Network,1
+DE001068,SV00927,Rolling stock,Fleet,12
+DE001069,SV00928,Congestion,Network,16
+DE001070,SV00928,Congestion,Network,7
+DE001071,SV00930,Track fault,Infrastructure,11
+DE001072,SV00930,Staffing,Operations,22
+DE001073,SV00933,Congestion,Network,35
+DE001074,SV00934,Track fault,Infrastructure,12
+DE001075,SV00934,Congestion,Network,14
+DE001076,SV00935,Rolling stock,Fleet,16
+DE001077,SV00936,Staffing,Operations,8
+DE001078,SV00936,Staffing,Operations,4
+DE001079,SV00939,Rolling stock,Fleet,4
+DE001080,SV00939,Passenger incident,External,16
+DE001081,SV00940,Track fault,Infrastructure,31
+DE001082,SV00941,Points failure,Infrastructure,2
+DE001083,SV00941,Rolling stock,Fleet,1
+DE001084,SV00942,Track fault,Infrastructure,17
+DE001085,SV00942,Track fault,Infrastructure,13
+DE001086,SV00943,Congestion,Network,44
+DE001087,SV00943,Points failure,Infrastructure,12
+DE001088,SV00944,Staffing,Operations,11
+DE001089,SV00944,Signal failure,Infrastructure,3
+DE001090,SV00945,Weather,External,23
+DE001091,SV00946,Rolling stock,Fleet,22
+DE001092,SV00948,Staffing,Operations,18
+DE001093,SV00951,Rolling stock,Fleet,13
+DE001094,SV00951,Congestion,Network,4
+DE001095,SV00952,Points failure,Infrastructure,6
+DE001096,SV00953,Congestion,Network,23
+DE001097,SV00953,Passenger incident,External,12
+DE001098,SV00954,Passenger incident,External,1
+DE001099,SV00954,Congestion,Network,2
+DE001100,SV00955,Congestion,Network,7
+DE001101,SV00958,Points failure,Infrastructure,13
+DE001102,SV00958,Points failure,Infrastructure,22
+DE001103,SV00959,Congestion,Network,6
+DE001104,SV00959,Track fault,Infrastructure,6
+DE001105,SV00961,Weather,External,4
+DE001106,SV00961,Congestion,Network,1
+DE001107,SV00963,Passenger incident,External,2
+DE001108,SV00963,Rolling stock,Fleet,23
+DE001109,SV00964,Rolling stock,Fleet,7
+DE001110,SV00964,Track fault,Infrastructure,13
+DE001111,SV00965,Points failure,Infrastructure,8
+DE001112,SV00966,Track fault,Infrastructure,52
+DE001113,SV00967,Passenger incident,External,2
+DE001114,SV00967,Signal failure,Infrastructure,5
+DE001115,SV00968,Signal failure,Infrastructure,24
+DE001116,SV00969,Staffing,Operations,2
+DE001117,SV00969,Rolling stock,Fleet,1
+DE001118,SV00972,Rolling stock,Fleet,47
+DE001119,SV00973,Staffing,Operations,10
+DE001120,SV00974,Congestion,Network,20
+DE001121,SV00974,Passenger incident,External,31
+DE001122,SV00975,Weather,External,11
+DE001123,SV00975,Staffing,Operations,5
+DE001124,SV00976,Signal failure,Infrastructure,16
+DE001125,SV00977,Points failure,Infrastructure,30
+DE001126,SV00978,Staffing,Operations,3
+DE001127,SV00978,Weather,External,6
+DE001128,SV00979,Points failure,Infrastructure,16
+DE001129,SV00979,Passenger incident,External,10
+DE001130,SV00980,Points failure,Infrastructure,8
+DE001131,SV00981,Points failure,Infrastructure,1
+DE001132,SV00981,Weather,External,25
+DE001133,SV00984,Rolling stock,Fleet,47
+DE001134,SV00986,Track fault,Infrastructure,1
+DE001135,SV00986,Rolling stock,Fleet,7
+DE001136,SV00987,Rolling stock,Fleet,16
+DE001137,SV00987,Track fault,Infrastructure,14
+DE001138,SV00988,Points failure,Infrastructure,19
+DE001139,SV00989,Signal failure,Infrastructure,2
+DE001140,SV00989,Rolling stock,Fleet,1
+DE001141,SV00990,Congestion,Network,1
+DE001142,SV00990,Weather,External,12
+DE001143,SV00992,Points failure,Infrastructure,23
+DE001144,SV00993,Points failure,Infrastructure,5
+DE001145,SV00994,Track fault,Infrastructure,30
+DE001146,SV00995,Weather,External,5
+DE001147,SV00996,Track fault,Infrastructure,24
+DE001148,SV00997,Signal failure,Infrastructure,39
+DE001149,SV00997,Staffing,Operations,40
+DE001150,SV00998,Passenger incident,External,5
+DE001151,SV00999,Points failure,Infrastructure,14
+DE001152,SV00999,Track fault,Infrastructure,17
+DE001153,SV01000,Points failure,Infrastructure,34
+DE001154,SV01000,Track fault,Infrastructure,13
+DE001155,SV01001,Rolling stock,Fleet,11
+DE001156,SV01002,Points failure,Infrastructure,12
+DE001157,SV01002,Rolling stock,Fleet,6
+DE001158,SV01003,Points failure,Infrastructure,19
+DE001159,SV01004,Staffing,Operations,11
+DE001160,SV01004,Points failure,Infrastructure,1
+DE001161,SV01005,Congestion,Network,6
+DE001162,SV01005,Congestion,Network,40
+DE001163,SV01006,Signal failure,Infrastructure,9
+DE001164,SV01007,Congestion,Network,8
+DE001165,SV01007,Congestion,Network,2
+DE001166,SV01008,Signal failure,Infrastructure,19
+DE001167,SV01008,Points failure,Infrastructure,16
+DE001168,SV01009,Weather,External,56
+DE001169,SV01010,Points failure,Infrastructure,1
+DE001170,SV01010,Weather,External,4
+DE001171,SV01011,Congestion,Network,12
+DE001172,SV01011,Passenger incident,External,18
+DE001173,SV01013,Points failure,Infrastructure,1
+DE001174,SV01013,Track fault,Infrastructure,46
+DE001175,SV01014,Staffing,Operations,43
+DE001176,SV01015,Staffing,Operations,20
+DE001177,SV01015,Points failure,Infrastructure,26
+DE001178,SV01016,Signal failure,Infrastructure,8
+DE001179,SV01017,Signal failure,Infrastructure,1
+DE001180,SV01017,Signal failure,Infrastructure,34
+DE001181,SV01019,Track fault,Infrastructure,52
+DE001182,SV01020,Track fault,Infrastructure,2
+DE001183,SV01020,Points failure,Infrastructure,5
+DE001184,SV01021,Points failure,Infrastructure,37
+DE001185,SV01022,Points failure,Infrastructure,39
+DE001186,SV01023,Points failure,Infrastructure,13
+DE001187,SV01024,Points failure,Infrastructure,34
+DE001188,SV01025,Points failure,Infrastructure,30
+DE001189,SV01026,Rolling stock,Fleet,14
+DE001190,SV01026,Weather,External,12
+DE001191,SV01028,Rolling stock,Fleet,24
+DE001192,SV01029,Points failure,Infrastructure,11
+DE001193,SV01031,Rolling stock,Fleet,42
+DE001194,SV01031,Weather,External,37
+DE001195,SV01032,Congestion,Network,52
+DE001196,SV01034,Points failure,Infrastructure,16
+DE001197,SV01037,Rolling stock,Fleet,30
+DE001198,SV01038,Congestion,Network,3
+DE001199,SV01039,Signal failure,Infrastructure,3
+DE001200,SV01039,Passenger incident,External,8
+DE001201,SV01040,Rolling stock,Fleet,2
+DE001202,SV01040,Weather,External,3
+DE001203,SV01041,Weather,External,9
+DE001204,SV01041,Weather,External,1
+DE001205,SV01042,Staffing,Operations,1
+DE001206,SV01042,Staffing,Operations,5
+DE001207,SV01043,Rolling stock,Fleet,24
+DE001208,SV01044,Congestion,Network,12
+DE001209,SV01047,Passenger incident,External,22
+DE001210,SV01048,Congestion,Network,17
+DE001211,SV01049,Staffing,Operations,8
+DE001212,SV01050,Rolling stock,Fleet,1
+DE001213,SV01050,Congestion,Network,3
+DE001214,SV01051,Track fault,Infrastructure,7
+DE001215,SV01051,Points failure,Infrastructure,10
+DE001216,SV01052,Passenger incident,External,41
+DE001217,SV01053,Points failure,Infrastructure,19
+DE001218,SV01054,Passenger incident,External,7
+DE001219,SV01055,Weather,External,32
+DE001220,SV01056,Points failure,Infrastructure,21
+DE001221,SV01056,Passenger incident,External,26
+DE001222,SV01058,Rolling stock,Fleet,15
+DE001223,SV01059,Signal failure,Infrastructure,2
+DE001224,SV01059,Signal failure,Infrastructure,5
+DE001225,SV01060,Track fault,Infrastructure,21
+DE001226,SV01061,Passenger incident,External,5
+DE001227,SV01061,Signal failure,Infrastructure,2
+DE001228,SV01063,Staffing,Operations,6
+DE001229,SV01064,Weather,External,23
+DE001230,SV01065,Signal failure,Infrastructure,10
+DE001231,SV01066,Weather,External,8
+DE001232,SV01067,Congestion,Network,29
+DE001233,SV01067,Weather,External,1
+DE001234,SV01068,Track fault,Infrastructure,9
+DE001235,SV01069,Weather,External,33
+DE001236,SV01070,Rolling stock,Fleet,27
+DE001237,SV01072,Staffing,Operations,8
+DE001238,SV01072,Weather,External,2
+DE001239,SV01073,Track fault,Infrastructure,25
+DE001240,SV01074,Passenger incident,External,8
+DE001241,SV01074,Points failure,Infrastructure,2
+DE001242,SV01075,Weather,External,9
+DE001243,SV01075,Rolling stock,Fleet,15
+DE001244,SV01076,Staffing,Operations,16
+DE001245,SV01077,Congestion,Network,10
+DE001246,SV01077,Rolling stock,Fleet,7
+DE001247,SV01078,Passenger incident,External,33
+DE001248,SV01079,Passenger incident,External,4
+DE001249,SV01079,Staffing,Operations,3
+DE001250,SV01080,Congestion,Network,39
+DE001251,SV01080,Points failure,Infrastructure,13
+DE001252,SV01081,Weather,External,19
+DE001253,SV01081,Track fault,Infrastructure,9
+DE001254,SV01082,Congestion,Network,15
+DE001255,SV01082,Rolling stock,Fleet,2
+DE001256,SV01083,Staffing,Operations,18
+DE001257,SV01084,Staffing,Operations,12
+DE001258,SV01084,Points failure,Infrastructure,5
+DE001259,SV01086,Congestion,Network,35
+DE001260,SV01087,Track fault,Infrastructure,10
+DE001261,SV01088,Rolling stock,Fleet,46
+DE001262,SV01088,Weather,External,38
+DE001263,SV01089,Weather,External,35
+DE001264,SV01090,Track fault,Infrastructure,10
+DE001265,SV01090,Track fault,Infrastructure,24
+DE001266,SV01093,Signal failure,Infrastructure,8
+DE001267,SV01095,Signal failure,Infrastructure,12
+DE001268,SV01095,Track fault,Infrastructure,2
+DE001269,SV01096,Passenger incident,External,34
+DE001270,SV01097,Weather,External,18
+DE001271,SV01097,Congestion,Network,9
+DE001272,SV01098,Staffing,Operations,20
+DE001273,SV01098,Weather,External,10
+DE001274,SV01099,Congestion,Network,47
+DE001275,SV01100,Congestion,Network,2
+DE001276,SV01100,Points failure,Infrastructure,1
+DE001277,SV01101,Track fault,Infrastructure,7
+DE001278,SV01101,Weather,External,23
+DE001279,SV01102,Passenger incident,External,12
+DE001280,SV01103,Signal failure,Infrastructure,3
+DE001281,SV01103,Points failure,Infrastructure,3
+DE001282,SV01104,Congestion,Network,25
+DE001283,SV01105,Rolling stock,Fleet,5
+DE001284,SV01105,Track fault,Infrastructure,2
+DE001285,SV01107,Weather,External,19
+DE001286,SV01107,Signal failure,Infrastructure,5
+DE001287,SV01108,Signal failure,Infrastructure,42
+DE001288,SV01108,Signal failure,Infrastructure,14
+DE001289,SV01109,Staffing,Operations,3
+DE001290,SV01109,Points failure,Infrastructure,7
+DE001291,SV01110,Signal failure,Infrastructure,17
+DE001292,SV01111,Signal failure,Infrastructure,2
+DE001293,SV01111,Passenger incident,External,11
+DE001294,SV01114,Points failure,Infrastructure,27
+DE001295,SV01115,Staffing,Operations,21
+DE001296,SV01115,Track fault,Infrastructure,30
+DE001297,SV01116,Congestion,Network,2
+DE001298,SV01116,Passenger incident,External,1
+DE001299,SV01117,Points failure,Infrastructure,21
+DE001300,SV01118,Passenger incident,External,16
+DE001301,SV01118,Congestion,Network,15
+DE001302,SV01119,Congestion,Network,1
+DE001303,SV01119,Weather,External,19
+DE001304,SV01121,Signal failure,Infrastructure,4
+DE001305,SV01122,Congestion,Network,39
+DE001306,SV01124,Points failure,Infrastructure,8
+DE001307,SV01124,Rolling stock,Fleet,24
+DE001308,SV01125,Weather,External,6
+DE001309,SV01126,Signal failure,Infrastructure,3
+DE001310,SV01126,Signal failure,Infrastructure,1
+DE001311,SV01128,Signal failure,Infrastructure,4
+DE001312,SV01128,Signal failure,Infrastructure,13
+DE001313,SV01129,Congestion,Network,17
+DE001314,SV01129,Track fault,Infrastructure,35
+DE001315,SV01130,Staffing,Operations,11
+DE001316,SV01130,Rolling stock,Fleet,31
+DE001317,SV01131,Congestion,Network,2
+DE001318,SV01131,Track fault,Infrastructure,5
+DE001319,SV01132,Points failure,Infrastructure,3
+DE001320,SV01133,Congestion,Network,1
+DE001321,SV01133,Passenger incident,External,2
+DE001322,SV01134,Staffing,Operations,11
+DE001323,SV01134,Passenger incident,External,9
+DE001324,SV01135,Congestion,Network,21
+DE001325,SV01136,Staffing,Operations,23
+DE001326,SV01136,Congestion,Network,3
+DE001327,SV01137,Weather,External,22
+DE001328,SV01137,Weather,External,7
+DE001329,SV01138,Congestion,Network,16
+DE001330,SV01139,Signal failure,Infrastructure,4
+DE001331,SV01139,Signal failure,Infrastructure,10
+DE001332,SV01140,Passenger incident,External,5
+DE001333,SV01141,Weather,External,8
+DE001334,SV01141,Congestion,Network,8
+DE001335,SV01142,Weather,External,38
+DE001336,SV01142,Track fault,Infrastructure,10
+DE001337,SV01143,Passenger incident,External,21
+DE001338,SV01143,Rolling stock,Fleet,4
+DE001339,SV01145,Rolling stock,Fleet,16
+DE001340,SV01146,Track fault,Infrastructure,52
+DE001341,SV01147,Passenger incident,External,20
+DE001342,SV01147,Weather,External,2
+DE001343,SV01148,Weather,External,5
+DE001344,SV01148,Staffing,Operations,44
+DE001345,SV01149,Rolling stock,Fleet,22
+DE001346,SV01149,Staffing,Operations,2
+DE001347,SV01150,Rolling stock,Fleet,28
+DE001348,SV01151,Congestion,Network,2
+DE001349,SV01151,Weather,External,7
+DE001350,SV01152,Passenger incident,External,13
+DE001351,SV01153,Staffing,Operations,25
+DE001352,SV01154,Passenger incident,External,56
+DE001353,SV01155,Track fault,Infrastructure,3
+DE001354,SV01155,Congestion,Network,3
+DE001355,SV01157,Track fault,Infrastructure,7
+DE001356,SV01158,Weather,External,5
+DE001357,SV01158,Points failure,Infrastructure,25
+DE001358,SV01159,Track fault,Infrastructure,4
+DE001359,SV01159,Passenger incident,External,43
+DE001360,SV01160,Track fault,Infrastructure,4
+DE001361,SV01160,Signal failure,Infrastructure,19
+DE001362,SV01161,Points failure,Infrastructure,13
+DE001363,SV01161,Staffing,Operations,20
+DE001364,SV01162,Points failure,Infrastructure,18
+DE001365,SV01163,Staffing,Operations,51
+DE001366,SV01164,Points failure,Infrastructure,7
+DE001367,SV01164,Signal failure,Infrastructure,49
+DE001368,SV01165,Congestion,Network,40
+DE001369,SV01166,Congestion,Network,35
+DE001370,SV01167,Signal failure,Infrastructure,14
+DE001371,SV01168,Weather,External,1
+DE001372,SV01168,Congestion,Network,5
+DE001373,SV01169,Weather,External,10
+DE001374,SV01169,Points failure,Infrastructure,1
+DE001375,SV01170,Points failure,Infrastructure,4
+DE001376,SV01170,Weather,External,24
+DE001377,SV01171,Passenger incident,External,14
+DE001378,SV01171,Rolling stock,Fleet,38
+DE001379,SV01172,Track fault,Infrastructure,13
+DE001380,SV01173,Staffing,Operations,1
+DE001381,SV01173,Congestion,Network,5
+DE001382,SV01175,Passenger incident,External,19
+DE001383,SV01176,Weather,External,1
+DE001384,SV01176,Track fault,Infrastructure,3
+DE001385,SV01177,Rolling stock,Fleet,10
+DE001386,SV01178,Track fault,Infrastructure,5
+DE001387,SV01179,Rolling stock,Fleet,1
+DE001388,SV01179,Passenger incident,External,21
+DE001389,SV01180,Track fault,Infrastructure,1
+DE001390,SV01180,Rolling stock,Fleet,18
+DE001391,SV01182,Congestion,Network,3
+DE001392,SV01182,Signal failure,Infrastructure,7
+DE001393,SV01183,Passenger incident,External,19
+DE001394,SV01183,Signal failure,Infrastructure,4
+DE001395,SV01184,Weather,External,16
+DE001396,SV01184,Congestion,Network,16
+DE001397,SV01185,Signal failure,Infrastructure,3
+DE001398,SV01186,Weather,External,17
+DE001399,SV01186,Rolling stock,Fleet,15
+DE001400,SV01187,Congestion,Network,47
+DE001401,SV01188,Staffing,Operations,3
+DE001402,SV01189,Passenger incident,External,4
+DE001403,SV01189,Track fault,Infrastructure,1
+DE001404,SV01190,Passenger incident,External,2
+DE001405,SV01190,Track fault,Infrastructure,2
+DE001406,SV01191,Signal failure,Infrastructure,12
+DE001407,SV01191,Staffing,Operations,11
+DE001408,SV01192,Passenger incident,External,2
+DE001409,SV01192,Staffing,Operations,12
+DE001410,SV01193,Rolling stock,Fleet,10
+DE001411,SV01194,Weather,External,11
+DE001412,SV01194,Rolling stock,Fleet,2
+DE001413,SV01195,Passenger incident,External,2
+DE001414,SV01195,Weather,External,50
+DE001415,SV01196,Track fault,Infrastructure,7
+DE001416,SV01196,Congestion,Network,21
+DE001417,SV01197,Points failure,Infrastructure,15
+DE001418,SV01198,Staffing,Operations,20
+DE001419,SV01199,Rolling stock,Fleet,5
+DE001420,SV01199,Track fault,Infrastructure,5
+DE001421,SV01200,Points failure,Infrastructure,27
+DE001422,SV01200,Staffing,Operations,11
+DE001423,SV00634,Weather,External,1
+DE001424,SV01187,Track fault,Infrastructure,5
+DE001425,SV00252,Points failure,Infrastructure,4
+DE001426,SV01161,Track fault,Infrastructure,3
+DE001427,SV00226,Signal failure,Infrastructure,4
+DE001428,SV00302,Passenger incident,External,6
+DE001429,SV00308,Staffing,Operations,5
+DE001430,SV01144,Rolling stock,Fleet,3
+DE001431,SV00998,Staffing,Operations,1
+DE001432,SV00604,Signal failure,Infrastructure,4
+DE001433,SV00084,Weather,External,3
+DE001434,SV00253,Signal failure,Infrastructure,4
+DE001435,SV00627,Signal failure,Infrastructure,4
+DE001436,SV00722,Signal failure,Infrastructure,1
+DE001437,SV00515,Rolling stock,Fleet,3
+DE001438,SV00581,Rolling stock,Fleet,1
+DE001439,SV00555,Rolling stock,Fleet,6
+DE001440,SV00403,Points failure,Infrastructure,5
+DE001441,SV00166,Staffing,Operations,2
+DE001442,SV00066,Passenger incident,External,3
+DE001443,SV00510,Points failure,Infrastructure,4
+DE001444,SV00818,Congestion,Network,3
+DE001445,SV00619,Staffing,Operations,2
+DE001446,SV01155,Points failure,Infrastructure,6
+DE001447,SV00661,Rolling stock,Fleet,6
+DE001448,SV00409,Staffing,Operations,2
+DE001449,SV00853,Weather,External,3
+DE001450,SV00625,Congestion,Network,3
+DE001451,SV01161,Passenger incident,External,5
+DE001452,SV00376,Points failure,Infrastructure,4
+DE001453,SV00197,Rolling stock,Fleet,5
+DE001454,SV00906,Track fault,Infrastructure,5
+DE001455,SV00733,Passenger incident,External,3
+DE001456,SV00876,Passenger incident,External,4
+DE001457,SV00841,Passenger incident,External,1
+DE001458,SV01145,Signal failure,Infrastructure,4
+DE001459,SV00182,Rolling stock,Fleet,5
+DE001460,SV00620,Weather,External,5
+DE001461,SV01049,Track fault,Infrastructure,2
+DE001462,SV01113,Staffing,Operations,1
+DE001463,SV00805,Rolling stock,Fleet,4
+DE001464,SV00013,Passenger incident,External,5
+DE001465,SV00943,Signal failure,Infrastructure,1
+DE001466,SV00113,Staffing,Operations,6
+DE001467,SV00220,Track fault,Infrastructure,5
+DE001468,SV00200,Staffing,Operations,5
+DE001469,SV00987,Track fault,Infrastructure,1
+DE001470,SV00249,Signal failure,Infrastructure,6
+DE001471,SV00420,Rolling stock,Fleet,5
+DE001472,SV01015,Rolling stock,Fleet,2
+DE001473,SV00317,Staffing,Operations,6
+DE001474,SV00637,Signal failure,Infrastructure,4
+DE001475,SV00412,Congestion,Network,1
+DE001476,SV00001,Rolling stock,Fleet,5
+DE001477,SV00248,Congestion,Network,2
+DE001478,SV00419,Congestion,Network,4
+DE001479,SV00051,Passenger incident,External,4
+DE001480,SV00114,Congestion,Network,3
+DE001481,SV00829,Passenger incident,External,2
+DE001482,SV00482,Staffing,Operations,5
+DE001483,SV00900,Congestion,Network,4
+DE001484,SV00300,Signal failure,Infrastructure,2
+DE001485,SV00291,Weather,External,2
+DE001486,SV01048,Weather,External,4
+DE001487,SV00984,Staffing,Operations,3
+DE001488,SV00205,Passenger incident,External,3
+DE001489,SV00564,Points failure,Infrastructure,4
+DE001490,SV00220,Passenger incident,External,4
+DE001491,SV00871,Rolling stock,Fleet,1
+DE001492,SV00581,Passenger incident,External,1
+DE001493,SV01156,Points failure,Infrastructure,1
+DE001494,SV01189,Staffing,Operations,1
+DE001495,SV00911,Signal failure,Infrastructure,3
+DE001496,SV00286,Passenger incident,External,6
+DE001497,SV00939,Staffing,Operations,1
+DE001498,SV00325,Track fault,Infrastructure,5
+DE001499,SV01031,Weather,External,3
+DE001500,SV01076,Points failure,Infrastructure,5
+DE001501,SV00129,Rolling stock,Fleet,6
+DE001502,SV00311,Track fault,Infrastructure,6
+DE001503,SV01154,Track fault,Infrastructure,4
+DE001504,SV00287,Staffing,Operations,6
+DE001505,SV00621,Points failure,Infrastructure,1
+DE001506,SV00991,Points failure,Infrastructure,4
+DE001507,SV00370,Staffing,Operations,2
+DE001508,SV00664,Track fault,Infrastructure,5
+DE001509,SV00827,Congestion,Network,1
+DE001510,SV00061,Rolling stock,Fleet,2
+DE001511,SV00198,Congestion,Network,4
+DE001512,SV00976,Track fault,Infrastructure,2
+DE001513,SV00485,Congestion,Network,2
+DE001514,SV00787,Points failure,Infrastructure,1
+DE001515,SV00127,Staffing,Operations,1
+DE001516,SV00077,Congestion,Network,4
+DE001517,SV00767,Signal failure,Infrastructure,2
+DE001518,SV00658,Congestion,Network,6
+DE001519,SV00921,Points failure,Infrastructure,2
+DE001520,SV01176,Weather,External,2
+DE001521,SV00518,Passenger incident,External,4
+DE001522,SV00586,Weather,External,2
+DE001523,SV00332,Points failure,Infrastructure,5
+DE001524,SV00394,Congestion,Network,5
+DE001525,SV00050,Congestion,Network,2
+DE001526,SV00069,Rolling stock,Fleet,1
+DE001527,SV00737,Points failure,Infrastructure,5
+DE001528,SV01120,Congestion,Network,3
+DE001529,SV00380,Passenger incident,External,2
+DE001530,SV00425,Passenger incident,External,5
+DE001531,SV00722,Track fault,Infrastructure,5
+DE001532,SV01145,Rolling stock,Fleet,1
+DE001533,SV00899,Points failure,Infrastructure,6
+DE001534,SV00771,Congestion,Network,5
+DE001535,SV00161,Rolling stock,Fleet,5
+DE001536,SV00611,Congestion,Network,1
+DE001537,SV01022,Weather,External,1
+DE001538,SV01108,Track fault,Infrastructure,1
+DE001539,SV00459,Staffing,Operations,3
+DE001540,SV00800,Track fault,Infrastructure,1
+DE001541,SV00324,Staffing,Operations,1
+DE001542,SV01095,Weather,External,5
+DE001543,SV01025,Staffing,Operations,4
+DE001544,SV00117,Congestion,Network,5
+DE001545,SV00965,Staffing,Operations,6
+DE001546,SV00062,Signal failure,Infrastructure,3
+DE001547,SV00864,Staffing,Operations,2
+DE001548,SV00686,Signal failure,Infrastructure,2
+DE001549,SV00419,Track fault,Infrastructure,6
+DE001550,SV00128,Weather,External,4
+DE001551,SV00150,Signal failure,Infrastructure,3
+DE001552,SV00145,Points failure,Infrastructure,5
+DE001553,SV00166,Passenger incident,External,2
+DE001554,SV00555,Signal failure,Infrastructure,1
+DE001555,SV00073,Passenger incident,External,5
+DE001556,SV00462,Track fault,Infrastructure,4
+DE001557,SV00979,Staffing,Operations,2
+DE001558,SV00044,Signal failure,Infrastructure,1
+DE001559,SV00402,Points failure,Infrastructure,6
+DE001560,SV00038,Passenger incident,External,1
+DE001561,SV00793,Points failure,Infrastructure,6
+DE001562,SV00257,Points failure,Infrastructure,6
+DE001563,SV00875,Rolling stock,Fleet,1
+DE001564,SV00897,Congestion,Network,5
+DE001565,SV00754,Track fault,Infrastructure,2
+DE001566,SV00703,Points failure,Infrastructure,1
+DE001567,SV00488,Weather,External,1
+DE001568,SV00021,Weather,External,4
+DE001569,SV01099,Signal failure,Infrastructure,1
+DE001570,SV00512,Signal failure,Infrastructure,1
+DE001571,SV00117,Rolling stock,Fleet,4
+DE001572,SV00370,Staffing,Operations,1

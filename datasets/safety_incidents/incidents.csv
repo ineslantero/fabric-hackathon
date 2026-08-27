@@ -1,0 +1,421 @@
+IncidentID,Date,Time,LocationID,IncidentType,Severity,Department,Cause,ClosedDate
+IN00001,2025-06-06,12:28:46,LC006,Trip,Minor,Operations,Human error,2025-07-01
+IN00002,2025-08-16,18:23:05,LC022,Collision,Minor,Customer Service,Obstruction,2025-09-03
+IN00003,2025-08-01,16:35:32,LC016,Slip,Minor,Customer Service,Equipment,2025-08-20
+IN00004,2025-06-28,07:58:23,LC007,Electrical,Major,Security,Poor lighting,2025-08-17
+IN00005,2025-07-21,20:38:14,LC019,slip,Minor,Security,Wet floor,2025-07-25
+IN00006,2025-08-19,19:50:26,LC025,slip,Minor,Customer Service,Human error,2025-09-26
+IN00007,2025-06-15,12:36:52,LC001,slip,Minor,Operations,Human error,
+IN00008,2025-08-10,09:59:34,LC012,slip,Minor,Security,Equipment,2025-08-15
+IN00009,2025-08-06,12:49:58,LC001,Trip,Major,Operations,Wet floor,2025-09-13
+IN00010,2025-08-26,18:43:37,LC013,Near Miss,Minor,Operations,Wet floor,2025-09-15
+IN00011,2025-06-29,09:38:16,LC006,slip,Minor,Maintenance,Human error,
+IN00012,2025-06-17,14:21:20,LC017,TRIP,Minor,Security,Weather,2025-08-10
+IN00013,2025-06-29,08:05:26,LC002,Near Miss,Minor,Maintenance,Human error,
+IN00014,2025-06-03,18:32:09,LC006,slip,Major,Security,,
+IN00015,2025-08-01,23:31:40,LC007,Near Miss,Minor,Security,,2025-09-21
+IN00016,2025-07-14,11:57:11,LC005,slip,Minor,Projects,Equipment,2025-09-03
+IN00017,2025-08-30,19:00:10,LC019,Electrical,Minor,Customer Service,Wet floor,2025-10-22
+IN00018,2025-07-19,08:26:16,LC025,Slip,Minor,Maintenance,Poor lighting,2025-09-01
+IN00019,2025-08-08,22:45:59,LC003,Collision,Minor,Security,Equipment,2025-08-13
+IN00020,2025-07-05,20:47:06,LC022,TRIP,Major,Operations,Human error,2025-08-27
+IN00021,2025-06-11,09:55:02,LC002,Trip,Minor,Maintenance,Human error,2025-06-11
+IN00022,2025-08-26,18:01:44,LC025,Trip,Minor,Maintenance,Human error,
+IN00023,2025-06-26,10:04:08,LC024,Slip,Minor,Security,Weather,2025-06-26
+IN00024,2025-08-27,21:55:33,LC027,Trip,Major,Security,Weather,2025-09-07
+IN00025,2025-08-11,17:57:27,LC002,Manual Handling,Minor,Maintenance,Weather,
+IN00026,2025-06-23,16:08:25,LC003,TRIP,Major,Projects,Equipment,2025-08-01
+IN00027,2025-07-04,22:15:45,LC005,Near Miss,Minor,Customer Service,Equipment,2025-08-04
+IN00028,2025-08-28,14:07:21,LC021,Manual Handling,Minor,Maintenance,Human error,
+IN00029,2025-08-04,15:37:38,LC026,Trip,Major,Customer Service,Equipment,
+IN00030,2025-07-17,08:46:02,LC003,Slip,Major,Customer Service,Equipment,
+IN00031,2025-07-27,07:47:58,LC012,slip,Major,Operations,Equipment,
+IN00032,2025-06-05,16:28:58,LC025,Manual Handling,Minor,Security,Poor lighting,2025-07-30
+IN00033,2025-06-21,18:40:28,LC005,TRIP,Minor,Customer Service,Poor lighting,2025-08-05
+IN00034,2025-08-23,18:18:48,LC026,slip,Minor,Maintenance,Weather,
+IN00035,2025-08-02,20:44:08,LC023,Slip,Minor,Maintenance,Weather,2025-08-24
+IN00036,2025-07-12,10:46:49,LC025,slip,Minor,Security,Poor lighting,
+IN00037,2025-08-19,23:58:52,LC004,TRIP,Minor,Maintenance,Poor lighting,
+IN00038,2025-08-16,21:05:09,LC016,Near Miss,Minor,Maintenance,Human error,2025-10-07
+IN00039,2025-07-22,05:37:37,LC010,Electrical,Minor,Operations,Poor lighting,2025-09-04
+IN00040,2025-08-15,16:43:41,LC014,Slip,Minor,Security,Obstruction,2025-10-10
+IN00041,2025-07-27,19:24:20,LC026,Near Miss,Minor,Projects,Human error,
+IN00042,2025-07-24,19:11:32,LC011,Trip,Minor,Security,Poor lighting,2025-08-31
+IN00043,2025-06-19,23:17:49,LC016,Manual Handling,Minor,Maintenance,,2025-07-23
+IN00044,2025-07-09,08:14:19,LC009,Near Miss,Minor,Projects,Poor lighting,2025-08-25
+IN00045,2025-07-21,20:21:03,LC002,Slip,Minor,Projects,Equipment,2025-09-02
+IN00046,2025-08-25,23:33:57,LC005,Collision,Minor,Operations,Human error,2025-09-06
+IN00047,2025-08-19,21:37:32,LC010,Electrical,Minor,Customer Service,Wet floor,2025-09-12
+IN00048,2025-06-05,18:18:20,LC026,Manual Handling,Minor,Customer Service,Equipment,2025-06-05
+IN00049,2025-07-21,17:20:48,LC018,Electrical,Minor,Customer Service,Obstruction,2025-09-02
+IN00050,2025-07-22,10:09:02,LC003,Trip,Major,Customer Service,Human error,2025-08-16
+IN00051,2025-06-19,11:27:33,LC002,Slip,Minor,Operations,Obstruction,
+IN00052,2025-07-24,13:36:56,LC023,slip,Minor,Customer Service,,2025-08-22
+IN00053,2025-06-28,15:06:22,LC018,Trip,Minor,Security,Obstruction,2025-08-25
+IN00054,2025-07-21,14:10:07,LC011,Electrical,Minor,Operations,Wet floor,
+IN00055,2025-06-10,14:17:31,LC024,Near Miss,Minor,Operations,Obstruction,2025-07-01
+IN00056,2025-06-10,19:14:56,LC028,Manual Handling,Minor,Projects,Wet floor,
+IN00057,2025-08-19,10:18:58,LC008,TRIP,Minor,Customer Service,Human error,
+IN00058,2025-07-03,13:38:48,LC018,Electrical,Minor,Projects,Weather,2025-07-17
+IN00059,2025-06-01,08:59:14,LC025,Trip,Major,Security,,2025-07-25
+IN00060,2025-06-29,13:09:06,LC028,Near Miss,Minor,Security,Wet floor,2025-08-03
+IN00061,2025-06-12,11:35:53,LC021,Trip,Major,Projects,Wet floor,
+IN00062,2025-07-05,21:48:10,LC015,Slip,Minor,Operations,Equipment,
+IN00063,2025-08-25,05:38:57,LC027,Manual Handling,Minor,Projects,Human error,2025-08-30
+IN00064,2025-07-02,06:57:34,LC021,Collision,Major,Security,Wet floor,
+IN00065,2025-07-26,22:51:12,LC024,Trip,Minor,Projects,Equipment,2025-08-28
+IN00066,2025-06-03,05:31:53,LC003,Near Miss,Minor,Security,,
+IN00067,2025-07-06,05:23:13,LC001,TRIP,Major,Operations,,2025-08-04
+IN00068,2025-07-26,14:36:27,LC027,Trip,Major,Security,Equipment,2025-08-22
+IN00069,2025-08-15,19:33:08,LC020,Electrical,Minor,Security,Equipment,
+IN00070,2025-08-10,19:18:58,LC010,Electrical,Minor,Maintenance,Human error,2025-08-23
+IN00071,2025-06-09,08:45:45,LC013,Slip,Minor,Operations,Wet floor,2025-07-16
+IN00072,2025-06-06,08:28:56,LC018,Collision,Major,Security,Obstruction,2025-07-09
+IN00073,2025-06-12,18:31:16,LC021,Trip,Minor,Security,Wet floor,
+IN00074,2025-06-12,07:55:08,LC026,Collision,Major,Maintenance,Poor lighting,
+IN00075,2025-06-09,13:46:42,LC022,slip,Minor,Operations,Poor lighting,
+IN00076,2025-06-19,08:22:51,LC016,slip,Minor,Maintenance,,2025-07-20
+IN00077,2025-07-28,07:47:50,LC018,Collision,Minor,Customer Service,Obstruction,2025-09-05
+IN00078,2025-08-02,12:46:04,LC027,Near Miss,Minor,Operations,Equipment,
+IN00079,2025-08-22,15:10:32,LC021,TRIP,Minor,Projects,Obstruction,2025-09-08
+IN00080,2025-08-01,15:17:29,LC006,Electrical,Major,Projects,Human error,2025-08-12
+IN00081,2025-06-04,21:43:49,LC008,TRIP,Minor,Maintenance,Human error,2025-06-30
+IN00082,2025-07-18,07:45:44,LC012,Electrical,Minor,Maintenance,,2025-08-27
+IN00083,2025-07-17,15:57:59,LC006,Near Miss,Major,Maintenance,Human error,2025-09-01
+IN00084,2025-07-13,06:27:06,LC020,Slip,Minor,Operations,Wet floor,2025-07-18
+IN00085,2025-07-11,21:20:12,LC021,Electrical,Minor,Operations,,2025-08-27
+IN00086,2025-06-16,22:42:53,LC020,TRIP,Minor,Projects,Weather,2025-07-18
+IN00087,2025-07-11,06:40:40,LC028,Slip,Minor,Customer Service,Wet floor,2025-07-25
+IN00088,2025-06-30,05:15:08,LC025,slip,Minor,Maintenance,Equipment,
+IN00089,2025-06-27,23:24:55,LC024,Collision,Minor,Customer Service,Human error,
+IN00090,2025-08-26,12:43:12,LC012,Slip,Minor,Security,Human error,2025-10-01
+IN00091,2025-08-16,13:30:09,LC025,Near Miss,Minor,Projects,Wet floor,2025-10-11
+IN00092,2025-06-09,20:52:11,LC016,Collision,Minor,Customer Service,Poor lighting,2025-07-23
+IN00093,2025-08-08,20:18:08,LC021,Manual Handling,Major,Projects,Weather,2025-08-16
+IN00094,2025-06-29,11:40:56,LC020,Manual Handling,Minor,Projects,Wet floor,
+IN00095,2025-07-29,07:33:54,LC001,Near Miss,Major,Customer Service,Equipment,
+IN00096,2025-07-22,11:00:27,LC028,TRIP,Minor,Operations,Wet floor,2025-08-16
+IN00097,2025-06-14,07:31:35,LC028,TRIP,Major,Customer Service,Weather,2025-06-15
+IN00098,2025-06-05,11:45:11,LC013,TRIP,Major,Projects,Wet floor,2025-07-02
+IN00099,2025-06-08,06:26:44,LC025,TRIP,Minor,Security,Poor lighting,2025-06-24
+IN00100,2025-08-30,13:39:24,LC020,slip,Minor,Customer Service,Poor lighting,2025-10-01
+IN00101,2025-06-25,23:15:40,LC010,Electrical,Minor,Operations,Human error,2025-08-12
+IN00102,2025-06-14,16:30:33,LC001,TRIP,Minor,Operations,Human error,2025-06-29
+IN00103,2025-08-12,10:56:19,LC024,TRIP,Minor,Maintenance,Equipment,2025-10-07
+IN00104,2025-06-08,12:56:18,LC023,Electrical,Major,Operations,Human error,2025-07-09
+IN00105,2025-07-23,20:31:50,LC007,slip,Minor,Customer Service,Wet floor,
+IN00106,2025-06-18,17:38:22,LC016,Near Miss,Minor,Customer Service,Weather,
+IN00107,2025-07-17,22:30:18,LC022,Electrical,Minor,Operations,Equipment,2025-07-22
+IN00108,2025-08-30,08:14:07,LC012,Electrical,Minor,Projects,Wet floor,2025-10-23
+IN00109,2025-07-06,14:26:28,LC020,Electrical,Minor,Projects,Obstruction,
+IN00110,2025-07-04,15:15:42,LC004,TRIP,Minor,Operations,Equipment,2025-07-17
+IN00111,2025-08-18,18:07:11,LC022,TRIP,Major,Projects,Human error,2025-09-29
+IN00112,2025-06-17,19:20:42,LC021,Near Miss,Major,Projects,Obstruction,2025-08-06
+IN00113,2025-06-11,08:22:44,LC024,slip,Minor,Projects,Wet floor,2025-06-24
+IN00114,2025-06-21,17:45:08,LC018,Collision,Minor,Projects,Wet floor,2025-07-10
+IN00115,2025-08-24,20:53:51,LC005,Manual Handling,Minor,Maintenance,Wet floor,2025-09-08
+IN00116,2025-06-04,20:38:26,LC021,slip,Minor,Operations,Obstruction,
+IN00117,2025-07-19,12:01:18,LC011,Slip,Minor,Maintenance,Equipment,
+IN00118,2025-08-07,13:32:13,LC021,Near Miss,Minor,Operations,Human error,2025-09-09
+IN00119,2025-06-30,18:03:35,LC024,Collision,Minor,Security,Human error,2025-08-13
+IN00120,2025-07-16,15:16:43,LC023,Near Miss,Minor,Projects,Wet floor,2025-08-16
+IN00121,2025-06-21,15:26:25,LC015,Manual Handling,Fatal,Maintenance,Human error,2025-08-01
+IN00122,2025-07-23,19:27:25,LC020,slip,Major,Operations,Obstruction,2025-08-10
+IN00123,2025-06-07,13:58:03,LC021,Trip,Minor,Projects,Equipment,2025-06-08
+IN00124,2025-08-19,13:31:46,LC009,Manual Handling,Minor,Maintenance,Poor lighting,2025-10-17
+IN00125,2025-08-09,12:21:40,LC011,Electrical,Minor,Projects,Poor lighting,
+IN00126,2025-08-21,06:19:28,LC019,Collision,Major,Operations,Weather,
+IN00127,2025-07-04,18:14:36,LC009,Slip,Minor,Customer Service,Weather,
+IN00128,2025-06-04,10:34:13,LC024,slip,Minor,Projects,Human error,2025-06-26
+IN00129,2025-06-09,08:39:39,LC017,Manual Handling,Minor,Maintenance,Equipment,2025-07-19
+IN00130,2025-06-30,15:08:38,LC010,TRIP,Minor,Customer Service,Poor lighting,2025-07-31
+IN00131,2025-06-20,22:01:46,LC009,slip,Minor,Projects,,
+IN00132,2025-08-01,05:51:24,LC014,TRIP,Major,Maintenance,Wet floor,
+IN00133,2025-06-01,07:49:45,LC028,Collision,Minor,Customer Service,Weather,
+IN00134,2025-07-04,15:58:22,LC025,Near Miss,Minor,Customer Service,Equipment,
+IN00135,2025-07-03,22:04:41,LC006,TRIP,Major,Customer Service,Weather,2025-08-16
+IN00136,2025-06-10,06:33:13,LC027,slip,Major,Maintenance,Weather,2025-06-24
+IN00137,2025-06-04,16:34:12,LC013,Slip,Minor,Maintenance,Equipment,2025-07-28
+IN00138,2025-06-01,10:53:34,LC028,Trip,Minor,Customer Service,Weather,2025-07-27
+IN00139,2025-07-14,17:55:45,LC014,Trip,Minor,Projects,Equipment,2025-09-03
+IN00140,2025-08-29,12:18:51,LC016,Trip,Major,Customer Service,,
+IN00141,2025-07-23,10:58:23,LC020,Collision,Minor,Maintenance,Wet floor,
+IN00142,2025-08-26,15:26:13,LC023,Trip,Major,Security,Poor lighting,2025-09-15
+IN00143,2025-07-25,22:46:15,LC002,Collision,Minor,Maintenance,Human error,
+IN00144,2025-06-19,05:02:54,LC005,slip,Minor,Projects,,2025-08-08
+IN00145,2025-06-17,05:48:33,LC022,Trip,Minor,Security,Human error,2025-06-21
+IN00146,2025-07-09,08:32:25,LC002,Slip,Minor,Operations,Poor lighting,
+IN00147,2025-08-13,20:02:10,LC022,Slip,Minor,Security,Obstruction,2025-08-26
+IN00148,2025-08-20,14:19:01,LC028,Slip,Major,Operations,Human error,2025-09-28
+IN00149,2025-08-16,12:40:49,LC027,TRIP,Minor,Customer Service,Weather,2025-09-29
+IN00150,2025-07-30,12:02:17,LC002,Trip,Major,Customer Service,Obstruction,2025-09-15
+IN00151,2025-07-03,08:52:50,LC012,Electrical,Minor,Operations,Weather,2025-08-06
+IN00152,2025-06-02,17:41:25,LC012,Slip,Major,Security,Weather,2025-06-14
+IN00153,2025-06-24,09:52:47,LC024,Trip,Minor,Projects,Wet floor,2025-08-07
+IN00154,2025-08-11,13:55:05,LC020,TRIP,Minor,Security,Equipment,
+IN00155,2025-06-13,07:04:32,LC021,slip,Minor,Maintenance,Weather,
+IN00156,2025-07-22,18:01:00,LC004,Collision,Minor,Operations,Wet floor,2025-08-19
+IN00157,2025-08-03,22:38:58,LC022,Slip,Minor,Customer Service,Equipment,
+IN00158,2025-08-02,09:06:47,LC025,Manual Handling,Minor,Projects,Weather,2025-08-02
+IN00159,2025-06-26,23:50:25,LC011,Manual Handling,Minor,Projects,Wet floor,2025-07-07
+IN00160,2025-06-17,11:53:38,LC015,Electrical,Major,Customer Service,Human error,2025-06-29
+IN00161,2025-06-06,14:50:20,LC021,TRIP,Major,Operations,Poor lighting,2025-07-17
+IN00162,2025-08-02,18:32:47,LC010,Manual Handling,Major,Maintenance,Wet floor,2025-08-16
+IN00163,2025-07-17,05:19:17,LC008,slip,Minor,Customer Service,Wet floor,
+IN00164,2025-07-28,19:12:06,LC005,TRIP,Minor,Maintenance,Weather,2025-08-11
+IN00165,2025-08-05,13:41:36,LC020,slip,Minor,Maintenance,Equipment,2025-09-15
+IN00166,2025-06-06,20:24:18,LC012,slip,Fatal,Security,Equipment,2025-07-17
+IN00167,2025-07-10,18:05:14,LC002,Near Miss,Minor,Customer Service,Wet floor,2025-08-08
+IN00168,2025-07-03,18:35:17,LC012,Near Miss,Minor,Security,Equipment,2025-07-19
+IN00169,2025-07-09,20:18:58,LC024,Manual Handling,Minor,Maintenance,Equipment,2025-07-19
+IN00170,2025-07-31,22:32:15,LC006,TRIP,Minor,Customer Service,Equipment,2025-09-06
+IN00171,2025-08-01,17:01:31,LC018,slip,Minor,Projects,Human error,2025-09-23
+IN00172,2025-07-19,17:23:48,LC009,Near Miss,Minor,Security,Poor lighting,2025-09-07
+IN00173,2025-06-18,22:45:06,LC005,Collision,Minor,Operations,Human error,
+IN00174,2025-07-19,19:14:36,LC022,Electrical,Minor,Operations,Obstruction,2025-08-03
+IN00175,2025-06-08,05:25:49,LC023,Electrical,Minor,Security,Wet floor,2025-06-24
+IN00176,2025-06-26,12:28:23,LC008,Manual Handling,Minor,Customer Service,Human error,2025-07-09
+IN00177,2025-06-03,20:36:06,LC028,Electrical,Minor,Maintenance,Obstruction,
+IN00178,2025-07-17,14:21:09,LC018,Electrical,Major,Maintenance,Wet floor,
+IN00179,2025-07-17,07:06:35,LC013,Manual Handling,Minor,Maintenance,Obstruction,2025-09-08
+IN00180,2025-08-18,10:13:55,LC016,Near Miss,Minor,Security,Equipment,2025-08-29
+IN00181,2025-08-03,20:37:15,LC004,Manual Handling,Major,Security,Wet floor,
+IN00182,2025-08-11,07:09:25,LC014,Slip,Minor,Security,Equipment,2025-10-03
+IN00183,2025-06-04,20:33:46,LC020,Trip,Minor,Customer Service,Obstruction,2025-07-08
+IN00184,2025-06-12,23:48:14,LC009,Manual Handling,Major,Maintenance,Wet floor,
+IN00185,2025-06-06,06:49:31,LC010,TRIP,Minor,Operations,Human error,2025-07-22
+IN00186,2025-06-13,13:26:19,LC019,Near Miss,Minor,Customer Service,Human error,2025-07-29
+IN00187,2025-07-08,15:53:09,LC011,Slip,Minor,Operations,Wet floor,2025-09-04
+IN00188,2025-06-12,06:20:44,LC013,Near Miss,Minor,Maintenance,Human error,
+IN00189,2025-07-31,23:38:26,LC008,TRIP,Minor,Security,Equipment,2025-08-11
+IN00190,2025-07-16,05:17:44,LC022,slip,Minor,Customer Service,Weather,2025-09-08
+IN00191,2025-06-28,11:48:35,LC026,Near Miss,Minor,Projects,Wet floor,2025-08-07
+IN00192,2025-07-08,20:34:31,LC005,Electrical,Minor,Maintenance,Human error,
+IN00193,2025-08-26,15:41:15,LC022,Near Miss,Minor,Customer Service,Equipment,
+IN00194,2025-06-25,15:29:45,LC025,Electrical,Major,Operations,Weather,2025-07-20
+IN00195,2025-08-26,20:32:35,LC017,Near Miss,Minor,Operations,Equipment,2025-08-27
+IN00196,2025-07-03,07:58:06,LC009,Near Miss,Minor,Projects,Human error,2025-07-09
+IN00197,2025-08-12,18:44:04,LC025,TRIP,Minor,Customer Service,Human error,2025-08-21
+IN00198,2025-08-17,17:08:48,LC019,Near Miss,Minor,Projects,Human error,2025-08-17
+IN00199,2025-07-21,05:10:33,LC004,slip,Minor,Security,,2025-09-02
+IN00200,2025-07-10,08:10:12,LC013,Near Miss,Major,Projects,Wet floor,2025-07-10
+IN00201,2025-08-18,19:55:07,LC002,Manual Handling,Minor,Operations,Equipment,
+IN00202,2025-08-08,06:56:27,LC023,Slip,Minor,Operations,Wet floor,
+IN00203,2025-06-13,20:10:40,LC014,Collision,Minor,Operations,Human error,2025-06-16
+IN00204,2025-06-10,21:31:08,LC019,Collision,Major,Security,Equipment,2025-07-01
+IN00205,2025-07-27,22:26:25,LC002,Near Miss,Major,Projects,Wet floor,2025-07-29
+IN00206,2025-06-26,05:18:07,LC022,Collision,Major,Security,Human error,2025-07-07
+IN00207,2025-08-20,18:18:46,LC022,Electrical,Minor,Operations,Wet floor,2025-08-25
+IN00208,2025-06-22,13:33:20,LC018,Trip,Minor,Operations,Wet floor,2025-07-03
+IN00209,2025-08-31,16:36:41,LC004,Trip,Minor,Maintenance,Equipment,
+IN00210,2025-07-24,10:09:18,LC014,TRIP,Minor,Operations,Equipment,2025-09-17
+IN00211,2025-06-23,21:43:13,LC014,slip,Minor,Projects,Weather,2025-08-01
+IN00212,2025-08-19,16:33:38,LC016,TRIP,Minor,Maintenance,Poor lighting,2025-10-12
+IN00213,2025-06-09,13:30:29,LC002,Slip,Minor,Projects,Wet floor,2025-07-11
+IN00214,2025-06-24,11:59:21,LC007,Trip,Minor,Operations,Poor lighting,2025-07-01
+IN00215,2025-07-15,09:10:33,LC018,Collision,Minor,Maintenance,Weather,2025-08-14
+IN00216,2025-06-05,20:00:20,LC028,TRIP,Minor,Security,Wet floor,2025-06-24
+IN00217,2025-06-24,18:11:09,LC008,slip,Minor,Security,Poor lighting,
+IN00218,2025-06-23,20:04:00,LC022,Near Miss,Minor,Security,Wet floor,
+IN00219,2025-06-23,14:44:12,LC006,TRIP,Minor,Operations,Weather,2025-07-07
+IN00220,2025-07-30,11:44:06,LC023,Trip,Minor,Customer Service,Wet floor,2025-08-28
+IN00221,2025-08-27,22:29:21,LC012,Collision,Minor,Security,Poor lighting,2025-09-07
+IN00222,2025-07-09,08:03:39,LC013,TRIP,Minor,Projects,Weather,2025-08-04
+IN00223,2025-08-29,19:38:10,LC024,slip,Major,Operations,Human error,2025-10-03
+IN00224,2025-07-16,07:22:40,LC020,Trip,Minor,Operations,Weather,2025-08-03
+IN00225,2025-07-18,22:56:14,LC027,Trip,Major,Maintenance,Wet floor,2025-09-12
+IN00226,2025-06-21,16:40:00,LC024,Manual Handling,Minor,Operations,Wet floor,2025-08-06
+IN00227,2025-07-12,11:17:18,LC012,Trip,Minor,Operations,Human error,2025-07-16
+IN00228,2025-07-12,18:37:46,LC015,Electrical,Minor,Security,Equipment,2025-09-02
+IN00229,2025-06-18,14:23:39,LC014,Collision,Minor,Operations,,2025-08-02
+IN00230,2025-08-20,17:59:16,LC027,Collision,Minor,Projects,Poor lighting,2025-08-21
+IN00231,2025-06-05,22:34:41,LC024,Near Miss,Minor,Operations,Poor lighting,
+IN00232,2025-08-29,11:04:37,LC015,Collision,Major,Projects,Wet floor,2025-09-12
+IN00233,2025-07-01,09:06:46,LC009,Manual Handling,Minor,Maintenance,Equipment,2025-08-29
+IN00234,2025-06-13,11:17:11,LC005,Slip,Major,Operations,Weather,2025-06-30
+IN00235,2025-08-02,13:36:06,LC020,Trip,Major,Customer Service,Weather,2025-08-25
+IN00236,2025-07-18,09:51:33,LC003,Manual Handling,Minor,Security,Human error,2025-08-05
+IN00237,2025-06-03,23:41:49,LC017,Electrical,Minor,Customer Service,Human error,2025-07-16
+IN00238,2025-08-15,17:21:36,LC022,Electrical,Minor,Operations,Wet floor,2025-08-27
+IN00239,2025-07-02,23:38:17,LC011,TRIP,Minor,Customer Service,Obstruction,2025-08-18
+IN00240,2025-07-14,20:13:10,LC010,Collision,Minor,Projects,Poor lighting,2025-09-03
+IN00241,2025-06-19,05:50:14,LC011,Near Miss,Minor,Security,Poor lighting,
+IN00242,2025-06-03,11:05:59,LC003,Near Miss,Major,Customer Service,Weather,2025-06-12
+IN00243,2025-06-06,09:09:10,LC020,Collision,Minor,Customer Service,Human error,2025-06-12
+IN00244,2025-06-13,20:55:00,LC022,Collision,Minor,Security,Equipment,2025-08-05
+IN00245,2025-07-30,15:04:57,LC014,Electrical,Minor,Operations,Weather,2025-08-11
+IN00246,2025-06-23,06:08:32,LC015,Near Miss,Minor,Customer Service,Weather,2025-07-01
+IN00247,2025-06-27,19:27:42,LC025,TRIP,Minor,Projects,Human error,2025-07-31
+IN00248,2025-08-18,20:20:19,LC024,TRIP,Minor,Customer Service,Poor lighting,2025-08-20
+IN00249,2025-08-03,21:48:07,LC026,Manual Handling,Minor,Projects,Weather,
+IN00250,2025-08-17,12:35:25,LC005,TRIP,Minor,Security,Human error,2025-08-19
+IN00251,2025-07-06,17:49:24,LC006,TRIP,Minor,Projects,Weather,
+IN00252,2025-06-10,20:22:19,LC009,Near Miss,Minor,Security,Weather,2025-06-22
+IN00253,2025-06-13,21:20:33,LC014,slip,Minor,Projects,Equipment,2025-07-16
+IN00254,2025-08-08,07:56:38,LC006,Manual Handling,Minor,Security,Wet floor,2025-08-09
+IN00255,2025-07-01,11:10:40,LC021,Collision,Minor,Projects,Wet floor,2025-08-11
+IN00256,2025-08-05,13:45:09,LC012,Manual Handling,Minor,Customer Service,Poor lighting,2025-08-12
+IN00257,2025-06-11,18:35:28,LC001,Slip,Major,Projects,Equipment,2025-07-23
+IN00258,2025-06-08,20:44:50,LC027,Electrical,Minor,Maintenance,Human error,2025-06-27
+IN00259,2025-06-05,13:43:07,LC018,Collision,Minor,Operations,,2025-07-22
+IN00260,2025-07-20,22:57:27,LC014,Manual Handling,Major,Operations,Equipment,2025-08-26
+IN00261,2025-07-27,16:11:01,LC005,Electrical,Minor,Security,,2025-07-31
+IN00262,2025-07-13,16:54:29,LC004,TRIP,Minor,Operations,Equipment,2025-07-23
+IN00263,2025-07-18,16:46:27,LC011,Collision,Minor,Operations,Equipment,2025-07-29
+IN00264,2025-07-21,11:39:35,LC016,Collision,Minor,Operations,Poor lighting,2025-08-26
+IN00265,2025-08-12,11:24:23,LC028,Collision,Minor,Maintenance,Human error,2025-09-02
+IN00266,2025-08-22,10:59:47,LC025,Manual Handling,Minor,Security,Wet floor,2025-10-05
+IN00267,2025-08-05,05:12:28,LC014,Electrical,Minor,Security,Weather,
+IN00268,2025-08-16,16:33:12,LC012,TRIP,Minor,Security,Human error,2025-08-28
+IN00269,2025-08-21,05:37:19,LC013,Near Miss,Minor,Customer Service,Equipment,2025-09-16
+IN00270,2025-08-04,15:06:58,LC007,Trip,Minor,Customer Service,Human error,2025-08-11
+IN00271,2025-08-24,16:58:16,LC021,Manual Handling,Fatal,Operations,Weather,2025-09-03
+IN00272,2025-06-27,21:58:00,LC022,Slip,Minor,Customer Service,Human error,2025-06-30
+IN00273,2025-06-28,13:02:41,LC017,slip,Minor,Operations,Human error,
+IN00274,2025-08-15,13:41:30,LC025,Manual Handling,Minor,Operations,Wet floor,2025-08-19
+IN00275,2025-07-18,17:02:44,LC013,Collision,Minor,Projects,Wet floor,
+IN00276,2025-07-02,13:17:40,LC017,Electrical,Major,Projects,,2025-07-31
+IN00277,2025-07-28,06:36:52,LC020,Trip,Minor,Security,Wet floor,2025-09-02
+IN00278,2025-08-14,05:55:45,LC022,Slip,Minor,Projects,Human error,
+IN00279,2025-07-24,20:38:40,LC016,TRIP,Minor,Maintenance,Weather,
+IN00280,2025-08-23,19:31:11,LC013,slip,Minor,Maintenance,Wet floor,
+IN00281,2025-07-06,20:47:55,LC008,TRIP,Minor,Customer Service,Equipment,
+IN00282,2025-06-10,22:51:06,LC025,slip,Major,Operations,,
+IN00283,2025-08-29,06:23:01,LC021,Near Miss,Minor,Security,Equipment,2025-08-29
+IN00284,2025-06-30,09:45:47,LC019,Electrical,Major,Projects,Weather,2025-07-05
+IN00285,2025-08-11,10:55:54,LC016,Manual Handling,Minor,Security,Obstruction,2025-09-25
+IN00286,2025-08-19,09:05:26,LC007,Collision,Minor,Maintenance,Wet floor,
+IN00287,2025-06-24,08:03:28,LC028,Trip,Minor,Customer Service,Wet floor,
+IN00288,2025-08-10,06:20:06,LC020,TRIP,Minor,Security,Human error,
+IN00289,2025-08-08,22:17:54,LC013,Manual Handling,Major,Projects,Human error,
+IN00290,2025-07-09,11:41:39,LC022,Electrical,Minor,Customer Service,Weather,2025-08-02
+IN00291,2025-06-12,05:21:53,LC017,Electrical,Major,Maintenance,Wet floor,2025-07-09
+IN00292,2025-07-14,15:57:45,LC011,Electrical,Minor,Maintenance,Human error,2025-08-12
+IN00293,2025-08-14,10:57:37,LC020,Trip,Minor,Maintenance,Human error,2025-08-25
+IN00294,2025-06-13,16:33:00,LC012,slip,Major,Customer Service,Poor lighting,2025-06-22
+IN00295,2025-08-16,17:26:53,LC012,Near Miss,Minor,Projects,Equipment,2025-09-23
+IN00296,2025-07-28,06:04:12,LC020,Electrical,Minor,Customer Service,Equipment,2025-08-12
+IN00297,2025-08-12,21:09:46,LC014,slip,Minor,Customer Service,Wet floor,
+IN00298,2025-08-10,13:05:11,LC023,Near Miss,Minor,Maintenance,Wet floor,2025-08-21
+IN00299,2025-08-25,19:02:17,LC026,Trip,Major,Customer Service,Wet floor,2025-10-19
+IN00300,2025-06-18,11:44:32,LC018,Manual Handling,Major,Projects,Weather,
+IN00301,2025-06-05,18:11:40,LC018,Electrical,Major,Security,Wet floor,2025-07-10
+IN00302,2025-06-21,05:19:17,LC027,Near Miss,Minor,Maintenance,Obstruction,2025-07-10
+IN00303,2025-07-29,22:22:07,LC015,Trip,Major,Maintenance,Poor lighting,2025-09-01
+IN00304,2025-06-22,15:29:36,LC010,Trip,Minor,Maintenance,Wet floor,2025-08-17
+IN00305,2025-08-19,07:36:59,LC006,Collision,Minor,Projects,Wet floor,2025-09-01
+IN00306,2025-07-30,19:05:07,LC024,Collision,Minor,Projects,Human error,
+IN00307,2025-06-18,07:11:46,LC017,Manual Handling,Minor,Maintenance,Wet floor,
+IN00308,2025-06-13,07:11:20,LC012,Slip,Minor,Projects,Poor lighting,2025-07-02
+IN00309,2025-07-11,23:40:01,LC005,slip,Major,Customer Service,Poor lighting,
+IN00310,2025-06-08,10:50:00,LC017,Electrical,Minor,Security,Equipment,2025-08-04
+IN00311,2025-07-04,11:40:23,LC017,Electrical,Minor,Maintenance,Weather,
+IN00312,2025-06-21,19:05:56,LC015,Collision,Minor,Projects,Equipment,2025-07-16
+IN00313,2025-06-19,12:19:53,LC014,TRIP,Major,Customer Service,,2025-08-14
+IN00314,2025-08-03,11:47:48,LC005,Trip,Minor,Customer Service,Obstruction,2025-08-05
+IN00315,2025-08-08,09:19:03,LC003,Manual Handling,Minor,Customer Service,Weather,2025-09-20
+IN00316,2025-08-27,17:45:18,LC017,TRIP,Minor,Security,Human error,
+IN00317,2025-07-05,10:17:08,LC017,Electrical,Minor,Projects,Human error,2025-07-25
+IN00318,2025-08-15,23:20:26,LC014,TRIP,Minor,Projects,Obstruction,2025-08-24
+IN00319,2025-07-23,12:53:12,LC028,slip,Minor,Maintenance,Poor lighting,2025-08-04
+IN00320,2025-07-06,13:56:12,LC027,Collision,Minor,Operations,Weather,
+IN00321,2025-08-30,10:18:16,LC001,Near Miss,Minor,Customer Service,Equipment,2025-10-04
+IN00322,2025-08-16,19:16:05,LC027,Trip,Minor,Security,Human error,2025-10-10
+IN00323,2025-06-30,20:22:37,LC027,slip,Minor,Projects,Wet floor,2025-07-05
+IN00324,2025-06-20,16:22:49,LC028,Electrical,Major,Maintenance,Poor lighting,2025-06-23
+IN00325,2025-06-03,21:28:53,LC001,Trip,Minor,Customer Service,Equipment,2025-06-14
+IN00326,2025-07-20,10:02:53,LC014,Electrical,Minor,Customer Service,Poor lighting,2025-08-28
+IN00327,2025-06-01,23:24:09,LC008,slip,Minor,Projects,Human error,2025-07-04
+IN00328,2025-06-27,22:36:13,LC014,Manual Handling,Major,Security,Equipment,2025-07-05
+IN00329,2025-07-31,18:22:41,LC014,Trip,Minor,Operations,Poor lighting,
+IN00330,2025-06-13,14:13:21,LC018,Electrical,Minor,Customer Service,Poor lighting,
+IN00331,2025-06-11,21:35:53,LC012,Manual Handling,Minor,Maintenance,Weather,2025-07-19
+IN00332,2025-08-08,13:05:32,LC026,Near Miss,Major,Operations,Human error,
+IN00333,2025-06-12,11:16:13,LC011,Collision,Major,Projects,Weather,2025-07-10
+IN00334,2025-08-26,19:16:02,LC011,Electrical,Minor,Customer Service,Human error,
+IN00335,2025-08-07,08:33:42,LC012,Near Miss,Minor,Projects,Poor lighting,2025-09-11
+IN00336,2025-07-24,10:30:08,LC014,slip,Minor,Operations,Obstruction,2025-07-31
+IN00337,2025-06-04,19:37:20,LC002,Collision,Minor,Customer Service,Poor lighting,2025-06-05
+IN00338,2025-08-13,16:36:24,LC001,Slip,Minor,Operations,Obstruction,
+IN00339,2025-06-09,23:57:02,LC012,slip,Major,Maintenance,Equipment,2025-07-24
+IN00340,2025-06-06,15:44:06,LC021,Near Miss,Minor,Maintenance,Weather,2025-06-07
+IN00341,2025-06-19,16:55:57,LC007,slip,Minor,Security,Equipment,2025-07-18
+IN00342,2025-08-20,05:10:26,LC005,Near Miss,Minor,Security,Obstruction,2025-09-12
+IN00343,2025-06-20,20:21:21,LC009,Near Miss,Minor,Operations,Wet floor,2025-06-20
+IN00344,2025-07-15,08:11:58,LC002,TRIP,Minor,Security,Human error,2025-09-07
+IN00345,2025-06-05,16:19:10,LC003,Near Miss,Minor,Operations,Poor lighting,
+IN00346,2025-08-17,19:34:11,LC025,Near Miss,Minor,Customer Service,Weather,2025-09-16
+IN00347,2025-08-07,05:28:51,LC018,Collision,Minor,Maintenance,Poor lighting,2025-09-18
+IN00348,2025-07-07,19:37:36,LC023,slip,Minor,Customer Service,Human error,2025-07-08
+IN00349,2025-08-18,18:46:25,LC010,Electrical,Minor,Customer Service,,2025-10-07
+IN00350,2025-07-28,20:53:15,LC012,Slip,Minor,Maintenance,Equipment,2025-09-17
+IN00351,2025-08-04,13:46:23,LC005,Trip,Major,Security,Wet floor,2025-09-24
+IN00352,2025-08-25,15:30:43,LC016,Collision,Minor,Security,Weather,2025-09-28
+IN00353,2025-07-30,17:19:02,LC001,Electrical,Major,Customer Service,Wet floor,
+IN00354,2025-08-12,12:48:59,LC022,Trip,Minor,Projects,Wet floor,2025-09-05
+IN00355,2025-08-09,21:06:26,LC005,Electrical,Minor,Operations,Human error,2025-10-06
+IN00356,2025-07-07,18:49:17,LC014,Electrical,Minor,Projects,Poor lighting,2025-08-17
+IN00357,2025-07-28,23:25:37,LC018,Slip,Minor,Maintenance,Poor lighting,2025-08-16
+IN00358,2025-08-31,05:10:32,LC026,Collision,Minor,Maintenance,Human error,2025-10-15
+IN00359,2025-08-25,10:59:19,LC005,TRIP,Minor,Projects,Obstruction,2025-10-08
+IN00360,2025-08-02,21:12:36,LC016,slip,Minor,Security,Wet floor,2025-09-15
+IN00361,2025-06-28,09:08:42,LC018,TRIP,Minor,Projects,Weather,2025-08-01
+IN00362,2025-06-28,15:50:03,LC009,Electrical,Minor,Operations,Equipment,
+IN00363,2025-07-27,07:19:50,LC006,Collision,Major,Security,Wet floor,
+IN00364,2025-07-26,09:51:22,LC023,Slip,Minor,Customer Service,Equipment,
+IN00365,2025-08-17,19:25:10,LC022,Near Miss,Minor,Customer Service,Obstruction,2025-08-21
+IN00366,2025-08-16,19:00:42,LC021,Slip,Minor,Projects,Human error,
+IN00367,2025-06-16,09:12:56,LC028,Trip,Fatal,Operations,Weather,2025-06-20
+IN00368,2025-07-03,10:19:19,LC001,slip,Minor,Security,Equipment,
+IN00369,2025-06-30,07:11:15,LC025,Electrical,Minor,Projects,Human error,
+IN00370,2025-07-02,11:27:05,LC024,TRIP,Minor,Security,Poor lighting,2025-07-08
+IN00371,2025-07-24,12:09:43,LC002,Near Miss,Minor,Operations,Human error,2025-08-26
+IN00372,2025-07-17,22:54:49,LC026,Near Miss,Minor,Security,Equipment,2025-08-23
+IN00373,2025-06-23,16:00:30,LC005,Slip,Minor,Projects,Weather,2025-08-03
+IN00374,2025-08-13,10:22:06,LC002,TRIP,Minor,Security,Weather,2025-09-09
+IN00375,2025-08-05,20:35:43,LC014,Electrical,Minor,Maintenance,,2025-09-30
+IN00376,2025-07-07,17:44:13,LC007,Near Miss,Minor,Maintenance,Weather,2025-09-01
+IN00377,2025-08-26,20:42:24,LC019,Near Miss,Minor,Security,Equipment,2025-10-21
+IN00378,2025-07-18,19:45:15,LC003,TRIP,Minor,Operations,Human error,2025-09-11
+IN00379,2025-06-29,08:24:08,LC006,Near Miss,Major,Operations,Obstruction,2025-07-10
+IN00380,2025-07-09,15:48:59,LC023,TRIP,Minor,Projects,Obstruction,2025-08-18
+IN00381,2025-08-22,09:25:49,LC014,Slip,Major,Customer Service,Weather,2025-10-01
+IN00382,2025-08-14,15:57:18,LC022,Near Miss,Minor,Customer Service,Wet floor,2025-09-12
+IN00383,2025-07-26,18:38:25,LC006,Electrical,Minor,Maintenance,Wet floor,
+IN00384,2025-06-08,22:04:22,LC028,TRIP,Minor,Customer Service,Wet floor,2025-07-30
+IN00385,2025-08-26,20:42:47,LC012,Collision,Minor,Operations,Human error,2025-10-23
+IN00386,2025-06-02,23:01:14,LC013,TRIP,Minor,Security,Poor lighting,2025-06-06
+IN00387,2025-08-23,10:49:15,LC013,TRIP,Minor,Operations,Wet floor,
+IN00388,2025-08-29,16:23:21,LC008,Collision,Minor,Projects,Wet floor,2025-10-08
+IN00389,2025-06-04,21:52:00,LC025,TRIP,Major,Customer Service,Obstruction,2025-06-16
+IN00390,2025-06-24,17:58:04,LC004,Trip,Minor,Maintenance,Obstruction,2025-07-16
+IN00391,2025-06-18,12:08:31,LC028,slip,Minor,Customer Service,Wet floor,2025-07-20
+IN00392,2025-08-25,11:02:13,LC020,Electrical,Minor,Customer Service,Obstruction,2025-10-18
+IN00393,2025-07-07,14:27:05,LC026,Manual Handling,Minor,Security,,2025-07-08
+IN00394,2025-07-04,15:24:41,LC027,slip,Minor,Operations,Obstruction,
+IN00395,2025-07-30,10:27:09,LC015,TRIP,Minor,Operations,Equipment,2025-09-08
+IN00396,2025-08-20,14:19:24,LC016,TRIP,Minor,Security,Equipment,2025-10-17
+IN00397,2025-07-22,20:02:16,LC001,slip,Minor,Operations,Equipment,2025-07-23
+IN00398,2025-08-21,18:11:10,LC020,slip,Minor,Projects,Equipment,
+IN00399,2025-06-20,17:43:33,LC022,slip,Minor,Operations,Human error,2025-07-20
+IN00400,2025-07-16,08:29:51,LC017,Electrical,Minor,Customer Service,Human error,2025-07-16
+IN00401,2025-06-18,07:22:43,LC006,Collision,Minor,Security,Wet floor,
+IN00402,2025-07-09,08:41:55,LC022,TRIP,Minor,Projects,Wet floor,2025-08-24
+IN00403,2025-07-26,17:51:51,LC006,Slip,Minor,Maintenance,Poor lighting,2025-08-24
+IN00404,2025-07-11,05:10:20,LC004,Near Miss,Minor,Security,Human error,
+IN00405,2025-06-07,09:36:32,LC026,Electrical,Minor,Projects,Equipment,2025-07-06
+IN00406,2025-08-17,17:43:29,LC028,Trip,Minor,Operations,Weather,2025-09-04
+IN00407,2025-07-09,05:31:41,LC015,Electrical,Minor,Security,Equipment,2025-08-01
+IN00408,2025-06-16,17:27:49,LC028,Manual Handling,Minor,Operations,Wet floor,2025-07-02
+IN00409,2025-08-21,06:19:27,LC012,Collision,Minor,Customer Service,Wet floor,2025-09-23
+IN00410,2025-08-18,13:47:40,LC001,Trip,Minor,Operations,Human error,
+IN00411,2025-08-12,08:38:51,LC013,Manual Handling,Minor,Customer Service,Wet floor,2025-09-22
+IN00412,2025-08-14,19:32:23,LC008,Manual Handling,Minor,Customer Service,Equipment,2025-09-06
+IN00413,2025-06-17,20:45:21,LC007,Manual Handling,Minor,Security,Wet floor,
+IN00414,2025-08-03,22:23:07,LC025,Slip,Minor,Projects,Equipment,
+IN00415,2025-06-08,10:27:34,LC020,TRIP,Minor,Security,Weather,2025-07-19
+IN00416,2025-06-19,17:55:43,LC023,Collision,Minor,Customer Service,Wet floor,2025-06-23
+IN00417,2025-08-08,07:09:00,LC020,Slip,Minor,Projects,Human error,2025-10-05
+IN00418,2025-07-08,15:59:45,LC015,TRIP,Major,Projects,,2025-08-13
+IN00419,2025-08-23,23:16:12,LC001,Electrical,Minor,Maintenance,Weather,2025-10-19
+IN00420,2025-07-15,21:52:39,LC008,Manual Handling,Minor,Maintenance,Weather,2025-08-27

@@ -1,0 +1,29 @@
+LocationID,LocationName,LocationType,RegionID
+LC001,Location 1,Depot,RG00001
+LC002,Location 2,Station,RG00006
+LC003,Location 3,Depot,RG00001
+LC004,Location 4,Station,RG00001
+LC005,Location 5,Depot,RG00002
+LC006,Location 6,Track Section,RG00003
+LC007,Location 7,Station,RG00005
+LC008,Location 8,Depot,RG00003
+LC009,Location 9,Track Section,RG00002
+LC010,Location 10,Station,RG00004
+LC011,Location 11,Station,RG00002
+LC012,Location 12,Depot,RG00004
+LC013,Location 13,Station,RG00003
+LC014,Location 14,Station,RG00002
+LC015,Location 15,Station,RG00005
+LC016,Location 16,Depot,RG00003
+LC017,Location 17,Station,RG00002
+LC018,Location 18,Station,RG00002
+LC019,Location 19,Station,RG00004
+LC020,Location 20,Station,RG00004
+LC021,Location 21,Track Section,RG00002
+LC022,Location 22,Station,RG00004
+LC023,Location 23,Station,RG00002
+LC024,Location 24,Track Section,RG00003
+LC025,Location 25,Track Section,RG00003
+LC026,Location 26,Depot,RG00006
+LC027,Location 27,Station,RG00004
+LC028,Location 28,Station,RG00001

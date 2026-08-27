@@ -1,0 +1,13 @@
+RouteID,RouteName,RegionID
+RT00001,London – Brighton,RG00004
+RT00002,Manchester – Liverpool,RG00005
+RT00003,Leeds – York,RG00003
+RT00004,Bristol – Cardiff,RG00005
+RT00005,Norwich – Ipswich,RG00005
+RT00006,Glasgow – Edinburgh,RG00002
+RT00007,Birmingham – Leicester,RG00003
+RT00008,Reading – Oxford,RG00003
+RT00009,Exeter – Plymouth,RG00003
+RT00010,Carlisle – Preston,RG00005
+RT00011,Inverness – Aberdeen,RG00004
+RT00012,Southampton – Portsmouth,RG00003
