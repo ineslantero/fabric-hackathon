@@ -110,7 +110,7 @@ Fleet availability, failures, and maintenance work orders across depots and flee
 
 ---
 
-## 🏗️ Rail Infrastructure Project Performance — `rail_infrastructure_project_performance/`
+## 🏗️ Rail Infrastructure Project Performance — `infrastructure_projects/`
 
 Infrastructure project delivery: budget, actuals, forecast, and milestones across portfolios and regions. The story is predictive — which projects are heading for a cost overrun or milestone slippage, and where should the portfolio team look first.
 

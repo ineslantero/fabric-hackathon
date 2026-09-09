@@ -68,10 +68,13 @@ Pick any that sound interesting:
 
 - Use **two different ingestion methods** and explain the trade-off.
 - Build a **medallion architecture** (bronze / silver / gold) with clear layer separation.
-- Implement **incremental refresh** via a parameterised pipeline.
-- Add **data quality checks** as part of your pipeline — row counts, null thresholds, referential integrity.
-- Publish your workspace as a **Fabric App**, or embed a report in a **Teams channel**.
+- Build a **metadata-driven pipeline** — file names and load rules read from a small control table so adding a new source doesn't need a pipeline rebuild. ([Lookup activity](https://learn.microsoft.com/fabric/data-factory/lookup-activity) · [ForEach activity](https://learn.microsoft.com/fabric/data-factory/foreach-activity))
+- **Handle new data** — parameterise a pipeline for **incremental loads**, or make notebooks idempotent so reruns pick up only new rows. ([Incremental refresh with Dataflow Gen2](https://learn.microsoft.com/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2))
+- **Alert on failure** — add a step that sends a **Teams or email notification** when a pipeline run fails. ([Teams activity](https://learn.microsoft.com/fabric/data-factory/teams-activity) · [Outlook activity](https://learn.microsoft.com/fabric/data-factory/outlook-activity))
+- Add **data quality checks** in the pipeline — row counts, null thresholds, referential integrity — with a fail-loud step that stops downstream work on breach.
+- Set up **Power BI data alerts** on a headline KPI (e.g. AFC variance %) so consumers get pinged when a metric crosses a threshold. ([Data alerts in Power BI](https://learn.microsoft.com/power-bi/create-reports/service-set-data-alerts))
 - Add **row-level security** by Region to the semantic model.
+- Publish your workspace as a **Fabric Org App**, or embed a report in a **Teams channel**.
 
 ---
 
@@ -126,7 +129,7 @@ Each team gets a scenario, a business question to answer, and a folder of files 
 ### Team 5 — Rail Infrastructure Project Performance
 
 - **Theme:** infrastructure project delivery — budget, actuals, forecast, and milestones across portfolios and regions. A predictive view of which projects are heading for overrun or slippage.
-- **Files:** [`datasets/rail_infrastructure_project_performance/`](./datasets/rail_infrastructure_project_performance/) — `projects.csv`, `tasks.csv`, `financials.csv`, `period_spend.csv`, `milestones.csv`, `portfolios.csv`, `regions.csv` + shared `calendar.csv`.
+- **Files:** [`datasets/infrastructure_projects/`](./datasets/infrastructure_projects/) — `projects.csv`, `tasks.csv`, `financials.csv`, `period_spend.csv`, `milestones.csv`, `portfolios.csv`, `regions.csv` + shared `calendar.csv`.
 - **Questions to answer:**
   - Which projects and portfolios are forecast to overspend, and where are the biggest £ variances between `Budget` and `AFC`?
   - How is spend phased through the year — does the period-by-period profile line up with what was planned?
