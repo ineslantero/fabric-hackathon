@@ -12,7 +12,7 @@ Land your raw files somewhere your team can build on. Pick **at least one** meth
 
 | Method | Pros | Cons | Docs |
 |---|---|---|---|
-| **Upload to Lakehouse Files** | Fastest way to start; zero setup. | No history, no schedule, no lineage. | [Lakehouse: upload files](https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview) |
+| **Upload to Lakehouse Files** | Fastest way to start; zero setup. | No history, no schedule, no lineage. | [Load data into a lakehouse](https://learn.microsoft.com/fabric/data-engineering/load-data-lakehouse) |
 | **Data Factory pipeline — Copy activity** | Repeatable and parameterisable; 100+ source connectors. | Auth setup for private sources; connector-specific limits. | [Copy activity](https://learn.microsoft.com/fabric/data-factory/copy-data-activity) · [Pipelines overview](https://learn.microsoft.com/fabric/data-factory/pipeline-runs) |
 | **Dataflow Gen2** | Low-code Power Query UX; great for Excel and JSON reshape at ingest. | Harder to version-control; slower on large data. | [Dataflow Gen2 overview](https://learn.microsoft.com/fabric/data-factory/dataflows-gen2-overview) · [Get started](https://learn.microsoft.com/fabric/data-factory/create-first-dataflow-gen2) |
 | **OneLake shortcut** | Zero-copy, always-fresh view of external storage. | Needs the external store and permissions. | [OneLake shortcuts](https://learn.microsoft.com/fabric/onelake/onelake-shortcuts) |
@@ -31,12 +31,6 @@ Turn raw files into cleaned tables and a semantic model you can report on. Pick 
 | **SQL analytics endpoint (views)** | Fast gold layer with no data movement; T-SQL familiarity. | Read-only — no inserts or updates. | [SQL analytics endpoint](https://learn.microsoft.com/fabric/data-engineering/lakehouse-sql-analytics-endpoint) · [T-SQL surface area](https://learn.microsoft.com/fabric/data-warehouse/tsql-surface-area) |
 | **Copilot in a Fabric notebook** | Generates PySpark or Spark SQL from a plain-English prompt; explains and fixes code. | Always review the code before running; quality depends on clear prompts and good column names. | [Copilot in Fabric notebooks](https://learn.microsoft.com/fabric/data-engineering/copilot-notebooks-overview) · [Chat-magics in notebooks](https://learn.microsoft.com/fabric/data-engineering/copilot-notebooks-chat-magics) |
 | **Semantic model — relationships, DAX, calculation groups** | Where your star schema, measures, and RLS live; Direct Lake model is free with the Lakehouse. | Direct Lake can silently fall back to DirectQuery on unsupported types. | [Direct Lake](https://learn.microsoft.com/fabric/get-started/direct-lake-overview) · [Semantic models in Fabric](https://learn.microsoft.com/power-bi/connect-data/service-datasets-understand) · [DAX reference](https://learn.microsoft.com/dax/) |
-
-> 💡 **Modelling tips**
-> - Aim for a small **star schema**: one fact table + a few dimension tables + the shared `calendar`.
-> - Mark `calendar` as the **date table** (Table tools → Mark as date table).
-> - Keep raw columns but add cleaned or derived columns alongside (e.g. `ArrivalDelayMinutes`, `OverrunMinutes`, `DurationMinutes`).
-> - Write a few **key measures** early — a working number lets you validate the model before you invest in visuals.
 
 ---
 

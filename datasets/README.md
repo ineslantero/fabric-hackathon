@@ -144,5 +144,7 @@ Keep these principles in mind:
 
 - **Consistent grain** per fact — different grains → different fact tables.
 - **Conform your dimensions** so the same slicer filters every fact.
+- **Mark `calendar` as the date table** in Power BI Desktop (*Table tools → Mark as date table*).
+- **Write a few key measures early** — a working number lets you validate the model before you invest in visuals.
 
 Docs: [Star schema for Power BI](https://learn.microsoft.com/power-bi/guidance/star-schema) · [Fact tables in Fabric Warehouse](https://learn.microsoft.com/fabric/data-warehouse/dimensional-modeling-fact-tables)
