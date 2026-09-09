@@ -1,6 +1,6 @@
 # Datasets 🗂️
 
-Four Network Rail-inspired datasets, one per team, plus a shared `calendar.csv` at the root of this folder. All data is synthetic but modelled on the shape of real operational data.
+Five Network Rail-inspired datasets, one per team, plus a shared `calendar.csv` at the root of this folder. All data is synthetic but modelled on the shape of real operational data.
 
 Every dataset needs some cleaning before it's ready to use. Each section below lists the specific quirks to watch for — treat these as **hints, not an exhaustive list**. Always check types, nulls, and joins before trusting the numbers.
 
@@ -107,3 +107,45 @@ Fleet availability, failures, and maintenance work orders across depots and flee
 - **`HoursInService` should be between 0 and 24** per day — spot any outliers before averaging.
 - **Availability % is a modelling choice** — decide whether it's based on `Status = "In service"` counts, `HoursInService` totals, or something else, and document it.
 - **Failures and maintenance both cause downtime** — decide how to attribute downtime hours between the two if they overlap in time.
+
+---
+
+## 🏗️ Rail Infrastructure Project Performance — `rail_infrastructure_project_performance/`
+
+Infrastructure project delivery: budget, actuals, forecast, and milestones across portfolios and regions. The story is predictive — which projects are heading for a cost overrun or milestone slippage, and where should the portfolio team look first.
+
+**Files**
+
+| File | Description |
+|---|---|
+| `projects.csv` | One row per project. Name, type, portfolio, region, sponsor, GRIP stage, planned and actual start / end dates, status. **Dim.** |
+| `tasks.csv` | One row per project × task. Task name, task group, planned start and end. Bridge between projects and financials. |
+| `financials.csv` | Task-grain totals: `Budget`, `ProposalEstimate`, `ActualsToDate`, `Accrual`, `FullYearForecast`, `AFC`, `CostRemaining` (£). **Fact table.** |
+| `period_spend.csv` | Task × the 13 four-week accounting periods (`P01`…`P13`), in **wide** form. Needs unpivoting before it's useful. **Fact table.** |
+| `milestones.csv` | Project milestones with planned and actual dates and a status. **Fact table.** |
+| `portfolios.csv` | Portfolio name. |
+| `regions.csv` | Region name. |
+
+**Watch out for** ⚠️
+
+- **`period_spend.csv` is in wide form** — 13 columns `P01`…`P13`. Unpivot to `(PeriodNumber, Amount)` before you model it. A useful sanity check: `Sum(P01..P13)` per task should equal `FullYearForecast` on `financials.csv`.
+- **Project names are inconsistent** — a mix of UPPER CASE, lower case, project codes, and the occasional leading or trailing space. Trim and normalise before you slice.
+- **A few `ActualsToDate` cells are text with commas** (e.g. `"86,541.22"`). Cast carefully so string values don't silently collapse to null.
+- **`Budget` and `ProposalEstimate` disagree on some budgeted tasks** — the estimate was re-baselined. Neither is wrong; pick one for your headline KPI and document the choice.
+- **Milestones can be `Complete` with no `ActualDate`**, and a small number of `PlannedDate` values arrive in `DD/MM/YYYY` instead of ISO — build a defensive `IsOnTime` flag rather than a naïve `ActualDate ≤ PlannedDate`.
+
+---
+
+## 💡 A note on modelling
+
+These datasets are shaped for **star-schema modelling in Power BI**, but they're not all single-fact. Some teams have one fact table with a few dimensions; others have **multiple fact tables sharing conformed dimensions** (like `regions`, `calendar`, and the team's own project or fleet dim).
+
+That's a valid — and encouraged — pattern. Microsoft's own guidance describes a star schema as *"often containing multiple fact tables, and therefore multiple stars"*. A few principles worth carrying into your model:
+
+- **Keep every fact table at a consistent grain** — one grain per fact; different grains → different fact tables.
+- **Conform your dimensions** — the same `regions` or `calendar` filters every fact.
+- **Consider the fact-table type** — transaction (one row per event), periodic snapshot (state at a point in time, e.g. daily availability), or accumulating snapshot (rows updated as a workflow progresses, e.g. project milestones).
+
+Useful references while you build:
+- [Understand star schema and the importance for Power BI](https://learn.microsoft.com/power-bi/guidance/star-schema)
+- [Dimensional modelling in Fabric Warehouse — fact tables](https://learn.microsoft.com/fabric/data-warehouse/dimensional-modeling-fact-tables)

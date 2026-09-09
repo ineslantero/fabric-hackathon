@@ -1,6 +1,6 @@
 # Network Rail × Microsoft Fabric Hackathon 🚂
 
-One day. Four teams. One Fabric workspace each. A real-ish Network Rail dataset that needs some work — and a whole platform to build on. ⚡
+One day. Five teams. One Fabric workspace each. A real-ish Network Rail dataset that needs some work — and a whole platform to build on. ⚡
 
 You'll go from raw files to a working solution end-to-end: **ingest → transform → model → report → (optional) AI**. Pick your own path through Fabric, try something you've never used before, and end the day with something you'd actually show a stakeholder.
 
@@ -122,6 +122,15 @@ Each team gets a scenario, a business question to answer, and a folder of files 
   - Which depots and fleet types have the best availability, and how is it trending?
   - What's driving downtime — failures or planned maintenance?
   - Are there fleet units or depots that stand out for repeated failures or long maintenance turnarounds?
+
+### Team 5 — Rail Infrastructure Project Performance
+
+- **Theme:** infrastructure project delivery — budget, actuals, forecast, and milestones across portfolios and regions. A predictive view of which projects are heading for overrun or slippage.
+- **Files:** [`datasets/rail_infrastructure_project_performance/`](./datasets/rail_infrastructure_project_performance/) — `projects.csv`, `tasks.csv`, `financials.csv`, `period_spend.csv`, `milestones.csv`, `portfolios.csv`, `regions.csv` + shared `calendar.csv`.
+- **Questions to answer:**
+  - Which projects and portfolios are forecast to overspend, and where are the biggest £ variances between `Budget` and `AFC`?
+  - How is spend phased through the year — does the period-by-period profile line up with what was planned?
+  - Which projects are slipping on their milestones, and is there a correlation between milestone slippage and cost variance?
 
 ---
 

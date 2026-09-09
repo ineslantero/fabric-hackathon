@@ -8,3 +8,6 @@ Thumbs.db
 
 # Office temp
 ~$*
+
+# Staging area for source materials and generator scripts (not published)
+_incoming/

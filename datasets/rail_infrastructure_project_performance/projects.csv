@@ -1,0 +1,53 @@
+ProjectID,ProjectName,PortfolioID,RegionID,ProjectType,Sponsor,GRIPStage,PlannedStartDate,PlannedEndDate,ActualStartDate,ActualEndDate,Status
+PJ0001,Great Eastern OLE Renewal,PT01,RG00001,Renewal,Mo Ahmed,G4 Single Option Development,2025-01-28,2025-09-01,2025-02-28,2025-08-02,Complete
+PJ0002,WAML CP7 Capacity Improvement,PT06,RG00006,Level Crossing,Tom Blackwell,G6 Construction,2024-09-09,2025-06-27,2024-10-11,,On hold
+PJ0003,Level Crossing Life Extension Tranche 2,PT02,RG00002,Renewal,Rob Marshall,G6 Construction,2024-09-29,2025-10-29,2024-10-15,,On hold
+PJ0004,Kentish & Reed TC CP7,PT05,RG00005,Station,Sarah Whitfield,G4 Single Option Development,2024-08-28,2026-07-04,2024-09-02,,Active
+PJ0005,S&C-ECML-Kirton Lane,PT06,RG00006,Renewal,Mo Ahmed,G3 Option Selection,2024-06-19,2025-04-16,2024-07-07,,Active
+PJ0006,23/24 NEWCASTLE STATION ACCESS,PT05,RG00005,Level Crossing,Sarah Whitfield,G5 Detailed Design,2024-07-21,2025-06-14,2024-09-02,,On hold
+PJ0007,Anglia Route Renewals P3,PT03,RG00003,Enhancement,Priya Chandra,G6 Construction,2025-02-17,2026-06-16,2025-02-16,,Active
+PJ0008,Wales OLE Refurbishment CP7,PT04,RG00004,Enhancement,Rob Marshall,G5 Detailed Design,2024-12-07,2025-11-08,,2025-10-25,Complete
+PJ0009,scotland s&c renewals cp7 p1,PT04,RG00004,Station,Sarah Whitfield,G4 Single Option Development,2024-12-16,2026-02-03,2025-01-04,,Active
+PJ0010,Kentish Town Station Enhancement,PT04,RG00004,Station,Mo Ahmed,G4 Single Option Development,2024-09-14,2025-08-04,2024-10-05,,Active
+PJ0011,Preston Station Redevelopment,PT02,RG00002,Level Crossing,Tom Blackwell,G6 Construction,2024-08-17,2026-04-06,2024-09-27,,Active
+PJ0012,Cambridge North Signalling Upgrade,PT06,RG00006,Signalling,Mo Ahmed,G5 Detailed Design,2025-02-22,2025-12-03,2025-03-10,,On hold
+PJ0013,Wembley Junction Renewals,PT03,RG00003,Level Crossing,Mo Ahmed,G4 Single Option Development,2024-06-25,2025-03-22,2024-06-27,,Active
+PJ0014,Bristol TM Signalling Renewal,PT05,RG00005,Level Crossing,Priya Chandra,G8 Project Closeout,2024-12-13,2025-11-25,2024-12-01,,Active
+PJ0015,Reading Depot Improvement ,PT04,RG00004,Station,Sarah Whitfield,G4 Single Option Development,2024-07-03,2025-05-20,2024-07-20,,Active
+PJ0016,Newport Track Renewals,PT01,RG00001,Enhancement,Sarah Whitfield,G5 Detailed Design,2024-07-01,2025-09-12,2024-07-16,2025-09-30,Complete
+PJ0017,MANCHESTER PICCADILLY ACCESS,PT03,RG00003,Station,Anna Kowalski,G3 Option Selection,2025-02-08,2026-02-21,2025-02-10,,Active
+PJ0018,Glasgow Queen Street Upgrade,PT06,RG00006,Renewal,Anna Kowalski,G8 Project Closeout,2024-10-10,2025-08-23,2024-10-08,,On hold
+PJ0019,Edinburgh Waverley Enhancement,PT06,RG00006,Station,James Okafor,G8 Project Closeout,2025-02-18,2025-09-20,2025-02-21,,Active
+PJ0020,Doncaster Junction Renewals,PT05,RG00005,Renewal,Tom Blackwell,G8 Project Closeout,2024-11-20,2025-07-01,2024-12-01,,Active
+PJ0021,LAIP2 TC,PT01,RG00001,Level Crossing,Daniel Reid,G7 Scheme Handback,2024-10-25,2026-07-09,,,On hold
+PJ0022,22/23 SHEFFIELD DERAILMENT,PT03,RG00003,Signalling,Priya Chandra,G7 Scheme Handback,2024-09-24,2026-07-29,2024-09-29,,Active
+PJ0023,DEX/11 Nottingham to Newark Road A612,PT06,RG00006,Level Crossing,Mo Ahmed,G8 Project Closeout,2024-09-11,2025-12-15,2024-09-15,,Active
+PJ0024,DULNE0 24/25 MBORO UNDERCROFT,PT06,RG00006,Level Crossing,Tom Blackwell,G6 Construction,2024-06-06,2026-03-01,,,On hold
+PJ0025,Ipswich Renewals Phase 2,PT06,RG00006,Enhancement,Rob Marshall,G6 Construction,2024-06-20,2025-02-26,2024-07-30,,Active
+PJ0026,Cardiff Central Access For All ,PT04,RG00004,Level Crossing,Priya Chandra,G8 Project Closeout,2024-08-10,2026-01-28,2024-08-31,2026-03-16,Complete
+PJ0027,Guildford Station Redevelopment,PT03,RG00003,Renewal,Rebecca Turner,G5 Detailed Design,2024-12-03,2025-10-28,2024-12-26,,Active
+PJ0028,Reading West LX Closure,PT05,RG00005,Renewal,Tom Blackwell,G6 Construction,2024-06-19,2025-09-05,2024-07-01,2025-08-28,Complete
+PJ0029,PETERBOROUGH JUNCTION SIGNALLING,PT02,RG00002,Station,Mo Ahmed,G6 Construction,2024-10-09,2025-08-05,2024-10-29,,On hold
+PJ0030,Ely Area Capacity Enhancement,PT05,RG00005,Level Crossing,Rebecca Turner,G7 Scheme Handback,2024-08-01,2025-04-15,2024-09-06,,Active
+PJ0031,Great Western Route Renewals,PT02,RG00002,Renewal,Tom Blackwell,G7 Scheme Handback,2024-11-24,2025-09-20,2024-12-21,2025-08-22,Complete
+PJ0032,Brighton Main Line CP7,PT01,RG00001,Station,Daniel Reid,G5 Detailed Design,2025-01-23,2025-10-09,2025-01-21,,On hold
+PJ0033,Chelmsford Station Improvement,PT05,RG00005,Enhancement,Anna Kowalski,G3 Option Selection,2025-01-23,2026-09-16,2025-02-10,,On hold
+PJ0034,Colchester Depot Refurbishment,PT01,RG00001,Enhancement,Sarah Whitfield,G7 Scheme Handback,2024-12-23,2026-04-24,,,Active
+PJ0035,24/25 CP7-EAST MIDLANDS-TD,PT06,RG00006,Signalling,Rob Marshall,G3 Option Selection,2025-03-12,2025-11-30,,,Active
+PJ0036,Norwich – Cambridge Route Renewals,PT01,RG00001,Level Crossing,Sarah Whitfield,G8 Project Closeout,2024-08-05,2025-07-16,2024-08-13,,On hold
+PJ0037,Suffolk LX Closure Programme,PT03,RG00003,Signalling,Anna Kowalski,G5 Detailed Design,2024-09-03,2026-04-19,2024-09-13,2026-04-17,Complete
+PJ0038,Highland Main Line S&C P2,PT05,RG00005,Station,Rebecca Turner,G5 Detailed Design,2024-12-09,2025-11-14,2025-01-07,,On hold
+PJ0039,West Coast Route Enhancement CP7,PT03,RG00003,Level Crossing,Rob Marshall,G8 Project Closeout,2025-01-19,2026-12-08,2025-01-28,,On hold
+PJ0040,Motherwell Signalling Renewal,PT01,RG00001,Station,Daniel Reid,G3 Option Selection,2025-03-10,2026-09-22,2025-04-13,,On hold
+PJ0041,SLOUGH STATION REFURBISHMENT,PT02,RG00002,Level Crossing,Rob Marshall,G5 Detailed Design,2024-11-27,2026-05-10,2025-01-05,2026-05-21,Complete
+PJ0042,waterloo concourse enhancement,PT04,RG00004,Enhancement,Nicola Grant,G8 Project Closeout,2024-09-14,2025-07-09,2024-09-29,,On hold
+PJ0043,20/21 CREWE JUNCTION S&C,PT06,RG00006,Station,Priya Chandra,G5 Detailed Design,2024-08-28,2026-05-09,2024-09-17,2026-07-16,Complete
+PJ0044,CHESTER STATION ACCESS,PT02,RG00002,Signalling,Daniel Reid,G3 Option Selection,2024-12-17,2025-11-22,2024-12-19,,Active
+PJ0045,West Ealing LX Closure,PT04,RG00004,Enhancement,Mo Ahmed,G7 Scheme Handback,2024-10-21,2025-12-27,,,Active
+PJ0046,Salisbury Signalling Upgrade,PT03,RG00003,Signalling,Daniel Reid,G6 Construction,2024-06-20,2026-05-26,2024-06-09,2026-08-07,Complete
+PJ0047,Barnsley Station Improvement,PT01,RG00001,Enhancement,Sarah Whitfield,G7 Scheme Handback,2024-06-26,2025-12-16,2024-06-25,,Active
+PJ0048,LEEDS CITY STATION ENHANCEMENT,PT01,RG00001,Signalling,Sarah Whitfield,G4 Single Option Development,2024-12-12,2025-08-14,2025-01-10,2025-07-22,Complete
+PJ0049,Basingstoke Depot Refurb,PT04,RG00004,Level Crossing,Anna Kowalski,G6 Construction,2024-07-09,2025-11-21,2024-07-24,,On hold
+PJ0050,Aberdeen Area Renewals,PT02,RG00002,Signalling,Sarah Whitfield,G4 Single Option Development,2024-12-06,2025-09-26,2025-01-02,2025-12-07,Complete
+PJ0051,Swindon TM Renewals,PT04,RG00004,Station,Rebecca Turner,G4 Single Option Development,2024-12-22,2025-11-07,2025-01-29,,Active
+PJ0052,Bath Spa Station Access,PT02,RG00002,Enhancement,Anna Kowalski,G7 Scheme Handback,2024-08-23,2025-11-23,2024-10-02,,On hold
