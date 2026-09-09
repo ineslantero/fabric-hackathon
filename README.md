@@ -58,7 +58,7 @@ Work through these in order. Anything beyond is a bonus.
 2. **Clean and model.** Produce cleaned tables with correct types and working relationships. Keep a short note of what you changed and why.
 3. **Build a report.** A Power BI report that answers the questions in your scenario, with at least a KPI page, a diagnostics page, and a drill-through or detail page.
 4. **Try something new.** Use at least one Fabric capability you haven't used before — a pipeline pattern, notebook, dataflow, Copilot feature, semantic model tweak. The point is to explore.
-5. **(Optional) Add an AI layer.** If AI features are enabled on the tenant, build a **Fabric Data Agent** on your lakehouse, or use **Copilot in Power BI** to draft a page. If AI isn't enabled on the day, skip this — it's not required.
+5. **Bring Copilot into the flow.** Use **Copilot in Power BI** to draft a report page or write a narrative summary, and/or **Copilot in a Fabric notebook** to generate PySpark or Spark SQL for cleaning and transforming your data. (Fabric Data Agent is not available on the day.)
 
 ---
 
@@ -72,7 +72,6 @@ Pick any that sound interesting:
 - Add **data quality checks** as part of your pipeline — row counts, null thresholds, referential integrity.
 - Publish your workspace as a **Fabric App**, or embed a report in a **Teams channel**.
 - Add **row-level security** by Region to the semantic model.
-- Wire your **Data Agent into Teams** for a live Q&A demo.
 
 ---
 
