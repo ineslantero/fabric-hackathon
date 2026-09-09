@@ -110,7 +110,7 @@ Fleet availability, failures, and maintenance work orders across depots and flee
 
 ---
 
-## 🏗️ Rail Infrastructure Project Performance — `infrastructure_projects/`
+## 🏗️ Infrastructure Projects — `infrastructure_projects/`
 
 Infrastructure project delivery: budget, actuals, forecast, and milestones across portfolios and regions. The story is predictive — which projects are heading for a cost overrun or milestone slippage, and where should the portfolio team look first.
 
@@ -138,14 +138,11 @@ Infrastructure project delivery: budget, actuals, forecast, and milestones acros
 
 ## 💡 A note on modelling
 
-These datasets are shaped for **star-schema modelling in Power BI**, but they're not all single-fact. Some teams have one fact table with a few dimensions; others have **multiple fact tables sharing conformed dimensions** (like `regions`, `calendar`, and the team's own project or fleet dim).
+These datasets are shaped for **star-schema modelling in Power BI**. Some teams have a single fact table; others have **multiple fact tables sharing conformed dimensions** (like `regions` or `calendar`). Both are valid — Microsoft describes a star schema as *"often containing multiple fact tables, and therefore multiple stars"*.
 
-That's a valid — and encouraged — pattern. Microsoft's own guidance describes a star schema as *"often containing multiple fact tables, and therefore multiple stars"*. A few principles worth carrying into your model:
+Keep these principles in mind:
 
-- **Keep every fact table at a consistent grain** — one grain per fact; different grains → different fact tables.
-- **Conform your dimensions** — the same `regions` or `calendar` filters every fact.
-- **Consider the fact-table type** — transaction (one row per event), periodic snapshot (state at a point in time, e.g. daily availability), or accumulating snapshot (rows updated as a workflow progresses, e.g. project milestones).
+- **Consistent grain** per fact — different grains → different fact tables.
+- **Conform your dimensions** so the same slicer filters every fact.
 
-Useful references while you build:
-- [Understand star schema and the importance for Power BI](https://learn.microsoft.com/power-bi/guidance/star-schema)
-- [Dimensional modelling in Fabric Warehouse — fact tables](https://learn.microsoft.com/fabric/data-warehouse/dimensional-modeling-fact-tables)
+Docs: [Star schema for Power BI](https://learn.microsoft.com/power-bi/guidance/star-schema) · [Fact tables in Fabric Warehouse](https://learn.microsoft.com/fabric/data-warehouse/dimensional-modeling-fact-tables)
