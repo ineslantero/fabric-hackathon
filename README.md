@@ -66,15 +66,15 @@ Work through these in order. Anything beyond is a bonus.
 
 Pick any that sound interesting:
 
-- Use **two different ingestion methods** and explain the trade-off.
-- Build a **medallion architecture** (bronze / silver / gold) with clear layer separation.
+- Use **two different ingestion methods** and explain the trade-off. ([Method Menus — Ingestion](./Method-Menus.md#-ingestion))
+- Build a **medallion architecture** (bronze / silver / gold) with clear layer separation. ([Medallion lakehouse architecture](https://learn.microsoft.com/fabric/onelake/onelake-medallion-lakehouse-architecture))
 - Build a **metadata-driven pipeline** — file names and load rules read from a small control table so adding a new source doesn't need a pipeline rebuild. ([Lookup activity](https://learn.microsoft.com/fabric/data-factory/lookup-activity) · [ForEach activity](https://learn.microsoft.com/fabric/data-factory/foreach-activity))
-- **Handle new data** — parameterise a pipeline for **incremental loads**, or make notebooks idempotent so reruns pick up only new rows. ([Incremental refresh with Dataflow Gen2](https://learn.microsoft.com/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2))
+- **Handle new data** — parameterise a pipeline for **incremental loads**, or write your notebook so a rerun only picks up new rows (no duplicates). ([Incremental refresh with Dataflow Gen2](https://learn.microsoft.com/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2))
 - **Alert on failure** — add a step that sends a **Teams or email notification** when a pipeline run fails. ([Teams activity](https://learn.microsoft.com/fabric/data-factory/teams-activity) · [Outlook activity](https://learn.microsoft.com/fabric/data-factory/outlook-activity))
-- Add **data quality checks** in the pipeline — row counts, null thresholds, referential integrity — with a fail-loud step that stops downstream work on breach.
-- Set up **Power BI data alerts** on a headline KPI (e.g. AFC variance %) so consumers get pinged when a metric crosses a threshold. ([Data alerts in Power BI](https://learn.microsoft.com/power-bi/create-reports/service-set-data-alerts))
-- Add **row-level security** by Region to the semantic model.
-- Publish your workspace as a **Fabric Org App**, or embed a report in a **Teams channel**.
+- Add **data quality checks** in the pipeline — row counts, null thresholds, referential integrity — and stop downstream work on breach. ([If Condition activity](https://learn.microsoft.com/fabric/data-factory/if-condition-activity) · [Fail activity](https://learn.microsoft.com/fabric/data-factory/fail-activity))
+- Set up **Power BI data alerts** on a headline KPI so consumers get pinged when a metric crosses a threshold. ([Data alerts in Power BI](https://learn.microsoft.com/power-bi/create-reports/service-set-data-alerts))
+- Add **row-level security** by Region to the semantic model. ([Row-level security in Power BI](https://learn.microsoft.com/power-bi/enterprise/service-admin-rls))
+- Publish your workspace as a **Fabric Org App** ([Publish an app](https://learn.microsoft.com/power-bi/collaborate-share/service-create-distribute-apps)), or embed a report in a **Teams channel** ([Power BI in Teams](https://learn.microsoft.com/power-bi/collaborate-share/service-embed-report-microsoft-teams)).
 
 ---
 
