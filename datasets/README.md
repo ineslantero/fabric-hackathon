@@ -31,9 +31,8 @@ Train performance data: services (planned vs actual), delay events, and cancella
 
 - **Inconsistent operator names** — at least one has leading/trailing whitespace *and* lowercase text (e.g. `"  anglia express "`). Trim, clean, and normalise casing before you join.
 - **Date and time columns arrive as text** on CSV import — cast `ScheduledDeparture`, `ActualDeparture`, `ScheduledArrival`, `ActualArrival`, and `Date` to proper types.
-- **`ActualArrival` may be missing** for cancelled services or where the arrival wasn't logged — decide whether to null, drop, or flag before calculating delays.
-- **Delay maths can go negative** (early arrivals). Decide whether "on time = arrived ≤ scheduled" or "on time = arrived within 5 min", and be consistent.
-- **`RegionRouteHint` on `services.csv` is a denormalised hint** — the authoritative region comes from `routes → regions`. Reconcile if they disagree.
+- **`ActualArrival` is missing for cancelled services** — decide whether to null, drop, or flag before calculating delays.
+- **On-time is a modelling choice** — decide whether "on time = arrived ≤ scheduled" or "on time = arrived within 5 min", and apply it consistently across every measure.
 
 ---
 
@@ -79,9 +78,8 @@ Planned track possessions for maintenance and renewal, and how they performed ag
 
 - **Date/time columns are text** — cast `PlannedStart`, `PlannedEnd`, `ActualStart`, `ActualEnd` to datetime before computing durations.
 - **Compute overrun carefully** — actual duration can be greater or less than planned; a negative overrun means "finished early". Decide how to handle that in your KPIs.
-- **`RegionID` on `possessions.csv` is a denormalised hint** — the authoritative region comes from `locations → regions`. Check whether they always agree, and choose which to trust.
-- **Contractor IDs referenced in `possessions.csv` should all exist** in `contractors.csv` — quick distinct-count check before you join.
-- **`impacts.csv` has zeros and small numbers** — decide whether a possession with 0 services impacted is a "clean" possession or missing data.
+- **Two ways to get to Region** — `possessions.csv` carries a `RegionID` directly, and you can also reach a region via `locations → regions`. Pick one path and use it consistently in your model.
+- **FK sanity checks are worth running** — do a distinct-count of `LocationID`, `ContractorID`, and `RegionID` on both sides before you join. Not because there are broken keys, but because it's a habit that pays off with real data.
 
 ---
 
