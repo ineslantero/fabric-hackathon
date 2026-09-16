@@ -19,7 +19,7 @@ You'll go from raw files to a working solution end-to-end: **ingest → transfor
 |---|---|
 | 10:00 – 10:20 | Welcome and framing |
 | 10:20 – 10:45 | Fabric refresher and workspace tour |
-| 10:45 – 11:00 | Team huddle and dataset reveal |
+| 10:45 – 11:00 | Team kick-off and dataset reveal |
 | 11:00 – 12:30 | Hacking time |
 | 12:30 – 13:15 | Lunch |
 | 13:15 – 15:30 | Hacking time |
