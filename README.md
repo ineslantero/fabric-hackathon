@@ -34,7 +34,7 @@ Timings are indicative — flex where it makes sense.
 ## How the day works
 
 - Each team is assigned **one scenario** and one dataset.
-- Each team has **one Fabric workspace** and can work on multiple items in parallel — split the work across ingestion, transformation, modelling, reporting, and (if AI is enabled) an AI experience.
+- Each team has **one Fabric workspace** and can work on multiple items in parallel — split the work across ingestion, transformation, modelling, and reporting. Want to try another Fabric workload beyond the focus areas? Go for it.
 - You get **goals and stretch goals**, not step-by-step instructions. Pick your path through Fabric.
 - The data is **imperfect on purpose**. Expect to clean, reshape, and question it.
 - Use the [Method Menus](./Method-Menus.md) to pick tools for each stage — there's more than one right answer.
@@ -52,7 +52,7 @@ At the end of the day each team presents. The demo should cover:
 
 ## Goals for the day
 
-Work through these in order. Anything beyond is a bonus.
+Work through these in order — and don't be afraid to try something new along the way.
 
 1. **Land the data.** Get your raw files into your team's lakehouse using at least one method (see [Method Menus](./Method-Menus.md#ingestion)).
 2. **Clean and model.** Produce cleaned tables with correct types and working relationships. Keep a short note of what you changed and why.
