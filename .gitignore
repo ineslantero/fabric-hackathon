@@ -11,3 +11,6 @@ Thumbs.db
 
 # Staging area for source materials and generator scripts (not published)
 _incoming/
+
+# Local-only test walkthroughs (not published)
+_test/
