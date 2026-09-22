@@ -86,6 +86,12 @@ For each stage of the day, there's more than one Fabric tool that will do the jo
 
 ---
 
+## Step-by-step guides
+
+Prefer a fully guided path? The [`step-by-step-guide/`](./step-by-step-guide/) folder has click-by-click walkthroughs of the full end-to-end for a specific dataset — download → lakehouse → dataflow → notebook → semantic model → report with Copilot. Start with [`infrastructure-projects.md`](./step-by-step-guide/infrastructure-projects.md) if you're new to Fabric.
+
+---
+
 ## Teams and themes
 
 Each team gets a scenario, a business question to answer, and a folder of files inside [`datasets/`](./datasets/) plus the shared `calendar.csv`.
