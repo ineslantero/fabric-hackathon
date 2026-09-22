@@ -76,7 +76,7 @@ Pick any that sound interesting:
 - Add **row-level security** by Region — either on the **semantic model** or through **OneLake data access roles** — and test each role with different team members. ([RLS in Power BI](https://learn.microsoft.com/power-bi/enterprise/service-admin-rls) · [OneLake data access roles](https://learn.microsoft.com/fabric/onelake/security/get-started-security))
 - Try **OneLake shortcuts** — point at data in another team's workspace, or an external source like SharePoint or ADLS Gen2, without copying. ([Create a OneLake shortcut](https://learn.microsoft.com/fabric/onelake/create-onelake-shortcut))
 - Curious about **Data Science**? Spin up a notebook, load your gold table into a dataframe, and try a quick model or exploratory analysis. ([Data science in Fabric](https://learn.microsoft.com/fabric/data-science/data-science-overview))
-- Publish your workspace as a **Fabric Org App** ([Publish an app](https://learn.microsoft.com/power-bi/collaborate-share/service-create-distribute-apps)), or embed a report in a **Teams channel** ([Power BI in Teams](https://learn.microsoft.com/power-bi/collaborate-share/service-embed-report-microsoft-teams)).
+- Publish your workspace as a **Fabric Org App** ([Org apps in Fabric](https://learn.microsoft.com/power-bi/explore-reports/org-app-items)), or embed a report in a **Teams channel** ([Power BI in Teams](https://learn.microsoft.com/power-bi/collaborate-share/service-embed-report-microsoft-teams)).
 
 ---
 
